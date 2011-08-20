@@ -1,0 +1,10 @@
+- description = space.description
+
+%div{"data-role" => "collapsible", collapsed_attribute_list?(description) => collapsed_attribute_list?(description) }
+  %h3 About
+  - if description
+    %p=description
+  -else
+    %p 
+      This space doesn't have a description yet. Please contribute to the description by adding a
+      =link_to "comment", comment_show_url(:id => space.id), :rel => 'external'

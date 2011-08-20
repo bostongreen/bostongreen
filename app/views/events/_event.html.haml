@@ -1,0 +1,7 @@
+%li
+  %h3.ui-li-heading=link_to event.name, event_url(event)
+  %p.ui-li-disc= human_readable_start_time(event.timeify :start_time)
+  %p.ui-li-disc 
+    = start_time_hour(event.timeify :start_time)
+    \-
+    = event.open_spaces.first.name

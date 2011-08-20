@@ -1,0 +1,1551 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "NAME": "Great Brook Farm State Park", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.346295, 42.556732 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Mini Brook Farm", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.745791, 42.025519 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "C.N. Smith Farm Inc.", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -70.943034, 42.008384 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "The Farmer's Daughter at Hillcrest Farm", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.813994, 42.197118 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Stony Farm and B&B", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.850928, 42.327227 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Bolton Spring Farm", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.564023, 42.439416 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Elmhurst Dairy Farms", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.807561, 42.176523 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Shaw Farm Dairy Inc. & Ice Cream Stand", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.332078, 42.681329 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Douglas Orchard", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.705463, 42.041128 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Ingaldsby Farm", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.049866, 42.723764 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Deershorn Farm", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.716684, 42.426559 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Morehouse's Wheeler Brook Farm", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -70.957180, 42.736969 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Nashoba Valley Winery and Orchard", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.614015, 42.431679 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Allandale Farm", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.140587, 42.302315 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Russell  Orchards & Winery", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -70.801269, 42.666054 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Boundary Llama Farm", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.845987, 42.678572 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Gore Place", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.212317, 42.373187 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Broken Wheel Farm", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.275193, 42.685487 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Schultz Farm & Flo's Country Farmstand", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.941540, 42.359646 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Wilson Farms", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.207096, 42.427497 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Carlson Orchards", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.564775, 42.499260 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Shady Oaks Farm", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.427015, 42.154958 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Kimball Fruit Farm", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.585476, 42.700340 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Shelburne Farm", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.499019, 42.446546 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Spence Farm", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.159188, 42.491758 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Honey Pot Hill Orchards", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.512050, 42.411482 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Carver Hill Orchards", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.503135, 42.432365 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Bolton Orchards", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.643513, 42.454536 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Barker's Farmstand", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.111404, 42.720754 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Clark Farm", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -70.955912, 42.566205 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Marini Farm", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -70.894348, 42.685316 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Highloft Farm", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.745906, 42.140337 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Drumlin Farm Wildlife Sanctuary", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.331502, 42.409828 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Indian Head Farm", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.628714, 42.362933 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Arena Farms", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.356680, 42.448740 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Ward's Berry Farm", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.217360, 42.099145 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Davis' Farmland & Mega Maze", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.725788, 42.436521 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Tougas Family Farm", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.683049, 42.342110 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Belkin Lookout Farm", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.356261, 42.298386 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Hawk Hill Orchards", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.802054, 42.178827 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Greenwood Hill Farm", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.993526, 42.480166 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Berlin Orchards", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.617438, 42.388180 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Cooper's Hilltop Farm", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.896569, 42.206458 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Winter Hill Farm", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.838264, 42.628219 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Arrowhead Acres", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.625419, 42.036586 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Heifer Project International-Overlook Farm", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.911622, 42.402989 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Pleasant Garden Daylilies", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.572740, 42.446665 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Helene's Stables", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.545682, 42.615480 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Jane and Paul's Farm", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.317068, 42.140646 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Verrill Farm", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.374240, 42.425094 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "George Hill Orchards", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.701872, 42.451239 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Dowse Orchards", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.368317, 42.255561 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Peaceful Meadows", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -70.950672, 42.060857 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Tree Berry Farm", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -70.757018, 42.172071 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Sunshine Farm", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.391474, 42.270407 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Breezy Gardens", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.949832, 42.255765 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Smolak Farms", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.075462, 42.691227 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Westward Orchards Farm Stand", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.550711, 42.489141 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Green Meadows Farm", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -70.900841, 42.635867 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "The Big Apple", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.398807, 42.038039 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Richardson Farms", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.006438, 42.583996 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Phil's Apples", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.601446, 42.516116 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Land's Sake", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.293747, 42.362668 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Connors Farm", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -70.937341, 42.604513 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Brooksby Farm", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -70.959148, 42.544822 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Clearview Farm", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.753177, 42.433213 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Griggs Farm", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.252567, 42.542912 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Alta Vista Bison Farm", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.926680, 42.356431 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Whittier Farms Inc.", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.798929, 42.104918 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Keown Orchards", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.713514, 42.159962 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Balance Rock Farm", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.631576, 42.394382 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Cook's Valley Farm", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.434608, 42.031120 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Natick Community Organic Farm", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.322379, 42.267564 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Outpost Farm", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.454236, 42.203912 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Nourse Farm", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.648577, 42.251390 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Tangerini's Spring Street Farm", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.356794, 42.159991 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Sleighbell Christmas Tree Farm & Gift Barn", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.723864, 42.098073 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Orchid Patch", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -72.004293, 42.085518 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Brox Farm", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.258703, 42.700281 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Russo's Greenhouses, Inc.", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.037133, 42.012374 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Bog Hollow Farm", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -70.761744, 41.992629 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "North Brook Farm", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.640703, 42.374245 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Heirloom Harvest CSA", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.596947, 42.257125 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Applefield Farm", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.537913, 42.435570 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Autumn Hills Orchards", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.543499, 42.638605 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Bogastow Farm", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.371067, 42.190430 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Butter Brook Farm", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.402466, 42.527383 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Capasso Farms Inc.", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.523691, 42.317346 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Obadia McIntrye Farm Winery & Charlton Orcha", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.944525, 42.142048 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Derby Orchard", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.511492, 42.436839 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Doe Orchards", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.574346, 42.543835 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Drew Farms Country Store", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.434908, 42.576695 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Dumas Farm", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.836867, 42.124420 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Fairmount Fruit Farm", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.400082, 42.133812 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Foppema's Farm", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.679789, 42.150834 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Harvey's Farm & Country Store", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.610134, 42.262249 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Highland Farm", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.458568, 42.232115 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Hill Orchard", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.408716, 42.599985 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Howe's Farm and Garden", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.890679, 42.288956 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Lakeview Farms", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.476120, 42.072571 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Lanni Orchards", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.748009, 42.605680 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "McHugh's", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -70.940392, 42.674435 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Nicewicz Farm", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.642283, 42.419550 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Parlee Farms", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.426681, 42.689504 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Parlee's Farm", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.379065, 42.592581 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Sholan Farms", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.775733, 42.486999 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Silvermine Farm", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.798119, 42.141883 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Small Farm", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.513232, 42.426070 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Stillman's Greenhouses & FarmStand", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.711326, 42.545055 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Stowe Farm Orchards", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.814805, 42.185647 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Marshall Family Fun Farm", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.778901, 42.600390 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Wade Orchard", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.570515, 42.475944 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Little Bit Farm", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.932350, 42.235207 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Vandervalk Tree Farm", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.564239, 42.082785 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Kenny J. Farm \/ Hartman's Herb Farm", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.822077, 42.108964 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "East Street Farm", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.215092, 42.612767 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Boston Hill Farm", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.088930, 42.645988 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Whittier Farms Inc.", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.742368, 42.291459 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Alfalfa Farm", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -70.962889, 42.600491 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Broad Hill Vineyards", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.443965, 42.222595 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Davidian Brothers Farm, LLC.", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.682873, 42.334185 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Volante Farms", "CATEGORY": "agro-activity" }, "geometry": { "type": "Point", "coordinates": [ -71.249806, 42.291904 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -70.992451, 42.865180 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -70.984054, 42.862009 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -70.938508, 42.859678 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -70.933359, 42.857384 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -70.929673, 42.856858 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -70.924004, 42.841253 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -70.925577, 42.840229 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -70.827393, 42.821743 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -70.878793, 42.817932 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.112670, 42.816798 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -70.866305, 42.815504 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -70.999018, 42.811673 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.091079, 42.783192 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.090437, 42.781197 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.035013, 42.764764 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.040029, 42.759937 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.128735, 42.753500 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.211480, 42.749884 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.199991, 42.734071 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.135778, 42.706560 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.615040, 42.704223 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.542876, 42.702800 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.542436, 42.702779 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.165660, 42.701766 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.432637, 42.699624 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.346925, 42.697807 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.144118, 42.697269 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.143599, 42.697106 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.169420, 42.697114 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.175622, 42.692363 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.591381, 42.692752 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.349763, 42.683489 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.349193, 42.683221 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.349236, 42.682924 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.740241, 42.679169 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.582114, 42.674657 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.581680, 42.674497 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.149331, 42.673922 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.149352, 42.673810 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.577157, 42.671570 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.573487, 42.669948 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.239891, 42.669428 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.330328, 42.667898 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.330498, 42.667504 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.710748, 42.665870 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.709937, 42.665858 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.324231, 42.665898 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.710823, 42.665725 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.575316, 42.665480 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.146549, 42.663503 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.708479, 42.662668 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.146676, 42.662307 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.319028, 42.659995 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.147427, 42.655896 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.147566, 42.655843 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.316486, 42.654103 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.672849, 42.652717 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.672366, 42.652575 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.687654, 42.652182 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.670553, 42.652175 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.687653, 42.651840 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.334280, 42.648347 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.150624, 42.647603 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.297777, 42.646973 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.663595, 42.643729 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.303052, 42.642870 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.378665, 42.642768 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.340509, 42.642576 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.297775, 42.627828 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.297769, 42.627729 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.157530, 42.627014 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.158419, 42.626427 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.592792, 42.626510 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.593533, 42.626448 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.639123, 42.614684 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.635262, 42.612671 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.635126, 42.612646 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.598133, 42.605834 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.627960, 42.603011 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.627964, 42.602766 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.284354, 42.591767 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.200398, 42.587966 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.609646, 42.578614 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.620651, 42.552260 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.621042, 42.552114 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.233354, 42.534887 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.233438, 42.534815 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.737199, 42.524889 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.727383, 42.519712 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.722464, 42.501781 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.722484, 42.501680 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.255821, 42.500032 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.255757, 42.498008 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.625821, 42.496053 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.723830, 42.495442 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.262091, 42.486122 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.686140, 42.485639 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.686159, 42.485533 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.355724, 42.466359 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.655953, 42.461213 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.674294, 42.452050 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.669011, 42.447279 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.432220, 42.440399 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.432764, 42.440349 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.529335, 42.434522 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.503089, 42.431535 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.503217, 42.431472 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.467164, 42.430531 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.516063, 42.428934 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.516063, 42.428731 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.469518, 42.427181 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.475560, 42.423102 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.526544, 42.407483 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.526741, 42.406655 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.500168, 42.406406 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.506927, 42.405673 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.506765, 42.405672 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.571352, 42.391337 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.559820, 42.388817 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.629866, 42.329810 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.629907, 42.329720 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.401918, 42.324772 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.401878, 42.324670 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.635667, 42.320807 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.635602, 42.320720 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.420188, 42.312342 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.420007, 42.312330 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.427257, 42.295269 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "canoe-access", "CATEGORY": "canoe-access" }, "geometry": { "type": "Point", "coordinates": [ -71.638112, 42.283650 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Amherst College, ORR Rink", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -72.518930, 42.367753 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "UMASS Practice Rink", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -72.533810, 42.390504 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Phillips Academy Ted Harrison Rink", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.129300, 42.642609 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Phillips Academy South Rink", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.129211, 42.642201 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Veterans Memorial Skating Rink", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.173030, 42.425469 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Daniel S. Horgan Memorial Skating Rink", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.846869, 42.198307 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "\"Skip\" Viglirolo Ice Rink", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.170059, 42.395212 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Belmont Hill School, Keller Rink", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.184931, 42.406189 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "High School, Hallenborg Pavilion", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.274698, 42.561548 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Chelmsford Forum", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.307772, 42.588856 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "TD Garden", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.061911, 42.366410 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "UMass Boston, Clark Arena", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.039978, 42.315265 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "BU, Agganis Arena", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.117748, 42.352282 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "BU, Walter Brown Arena", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.120355, 42.353985 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Gallo Ice Arena", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -70.578412, 41.750684 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Nashoba Valley Olympia 3", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.491632, 42.477080 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Nashoba Valley Olympia 2", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.491308, 42.477355 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Bridgewater Ice Arena NHL", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -70.970882, 41.952526 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Bridgewater Ice Arena AHL", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -70.971280, 41.952850 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Representative John G. Asiaf Skating Rink", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.043352, 42.064639 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Dexter School, Athletic Facility Rink", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.136896, 42.306996 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Dexter School, Thorndike Rink", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.137180, 42.306508 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Burlington Ice Palace", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.184286, 42.482293 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Reverend Romano Simoni Skating Rink", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.084547, 42.373066 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Sportsplex", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.075355, 42.163856 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "John P. Metropolis Skating Rink", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.117037, 42.191010 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Valley Sports Arena Rink #1", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.425950, 42.442855 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Valley Sports Arena Rink #2", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.425987, 42.443191 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Nobles & Greenough, Flood Omni Rink", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.187880, 42.260547 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Eaglebrook School, Alfond Arena", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -72.597771, 42.539660 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Deerfield Academy", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -72.609167, 42.544789 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Tony Kent Arena", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -70.140011, 41.692120 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Ice Huts Main Rink", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.342820, 42.677598 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Williston Northampton School, Lassone Rink", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -72.676116, 42.263238 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Everett Allied War Veterans' Memorial Recreation *", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.043491, 42.412470 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Arthur R. Driscoll Memorial Skating Rink", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.129029, 41.713556 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Falmouth Ice Arena", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -70.620178, 41.561420 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "George Wallace, Jr. Civic Center", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.784403, 42.594917 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Edward E. Loring Arena", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.430172, 42.276329 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Staff Sergeant Robert Pirelli Veterans Memorial R*", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.412879, 42.093110 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Gardner Veterans Skating Rink", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.990828, 42.580305 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Dorothy Talbot Memorial Rink", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -70.672525, 42.628258 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Collins-Moylan Memorial Skating Rink", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -72.596544, 42.604363 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Lawrence Academy, Grant Rink", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.563815, 42.602545 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Groton School, Pratt Rink", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.586184, 42.595291 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Pingree School, Johnson Rink", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -70.882769, 42.639278 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Veterans Memorial Skating Rink", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.103792, 42.785689 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Pilgrim Skating Arena 3", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -70.906305, 42.176165 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Pilgrim Skating Arena 1", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -70.906409, 42.175974 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Henry J. Fitzpatrick Skating Rink", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -72.619937, 42.197600 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Valley Forum", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.151814, 42.684609 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Hayden Recreation Center Rink", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.238130, 42.447654 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "John J. Janas Memorial Skating Rink", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.276338, 42.634739 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Tsongas Arena", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.313196, 42.650238 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "William P. Connery, Sr. and Sons Memorial Rink", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -70.952839, 42.457395 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Valley Forum II", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.063349, 42.426605 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "New England Sports Center - Rink 2", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.595794, 42.365332 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "New England Sports Center - Rink 3", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.595976, 42.364885 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "John J. Navin Skating Rink", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.551896, 42.361738 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "New England Sports Center - Rink 1", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.596344, 42.365587 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "New England Sports Center - Rink 4", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.596652, 42.365114 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Anthony A. LoConte Memorial Skating Rink", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.094426, 42.407304 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "John W. Flynn Memorial Ice Skating Rink", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.094558, 42.443154 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Methuen High School Rink", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.171020, 42.733108 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Milton Academy, Roberts Rink", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.073157, 42.257998 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Max Ulin Memorial Skating Rink", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.093521, 42.243768 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Nantucket Ice Arena", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -70.097287, 41.269937 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "West Suburban Arena", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.365209, 42.271700 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "St. Sebastians, Henry T. Lane Rink", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.206580, 42.268246 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Stephen Hetland Memorial Skating Rink", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -70.948412, 41.647729 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Henry Graf, Jr. Skating Rink", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -70.879873, 42.808139 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Norfolk Arena", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.360912, 42.133372 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Peter W. Foote Vietnam Veterans Memorial Rink", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -73.099462, 42.667932 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Mt. Hermon School, McCollum Arena", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -72.479959, 42.665936 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "The Ponds, Mini Rink", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.179292, 42.187104 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Charles Moore Arena", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -70.000457, 41.774416 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "James E. McVann and Louis F. O'Keefe Memorial Ska*", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -70.978453, 42.545951 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Hobomock Arena Rink I", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -70.804341, 42.051258 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Boys & Girls Club Skating Arena", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -73.251743, 42.452217 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "John A. Armstrong Memorial Skating Rink", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -70.657002, 41.925774 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Mayor William T. Shea Memorial Rink", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.029129, 42.234539 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Quincy Youth Arena", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -70.993866, 42.259613 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Joseph Zapustas Arena", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.035800, 42.170248 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "CDL Arena", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.067794, 41.970382 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Burbank Area", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.084883, 42.541231 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Staff Sergeant Paul W. Cronin Memorial Arena", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.015560, 42.403173 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Rockland Rink", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -70.901420, 42.108750 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Massports Club, Mini Rink", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -70.917557, 42.147755 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Salem State College, Rockett Arena", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -70.895275, 42.505359 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Hockeytown USA South Rink", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.025528, 42.471924 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Kasabuski Brothers Memorial Rink", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.026429, 42.482464 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Berkshire School, Rovensky Rink", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -73.413988, 42.116538 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Veterans Memorial Skating Rink", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.108503, 42.382846 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "St. Marks School, Gardner Rink", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.529534, 42.310986 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Ray Smead Memorial Skating Rink", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -72.547246, 42.129596 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Forest Park, Cyr Arena", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -72.560879, 42.081717 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Springfield Civic Center", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -72.587046, 42.102238 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Theodore J. Aleixo, Jr. Skating Rink", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.074736, 41.900176 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Superskills Hockey Rink", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.193656, 42.620338 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Skate 3 White Rink", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.431133, 42.688316 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "PHD Training Ctr., Mini Rink@skate3", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.430938, 42.689186 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Iorio Arena NHL Rink", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.239188, 42.113018 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Veterans Memorial Skating Rink", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.249106, 42.396694 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Ryan Memorial Rink", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.209229, 42.365210 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Babson College Skating Center", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.271550, 42.292658 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Springfield Olympia Ice 2", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -72.620119, 42.138195 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Springfield Olympia Ice 1", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -72.619382, 42.138706 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Northstar Youth Forum, Rink B", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.620057, 42.286701 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Northstar Youth Forum, Rink A", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.620447, 42.286790 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "The Rivers School, MacDowell Arena", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.326499, 42.323045 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "William A. Connell, Sr. Recreation Center", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -70.954834, 42.218237 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Williams College, Lansing Chapman Rink", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -73.203022, 42.710031 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Elinor Ristuccia Memorial Arena", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.179099, 42.558141 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Lawrence N. Larsen Ice Rink", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -70.987580, 42.376603 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "PHD Training Ctr., Mini Rink", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.142851, 42.496708 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "O'Brien Ice Rink", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.175410, 42.477617 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Holy Cross, Hart Center Rink", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.806031, 42.235097 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Honorable Charles J. Buffone Skating Rink", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.754694, 42.261970 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Harvard, Bright Hockey Center", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.127269, 42.368285 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Lieutenant James F. Reilly Memorial Recreation Ce*", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.152444, 42.336523 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Monsignor William J. Daly Memorial Recreation Cen*", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.170290, 42.358468 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Frederick Douglas Emmons, John Gerald Horrigan an*", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.066477, 42.374100 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Private First Class Robert M. Devine Skating Rink", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.044960, 42.288695 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "First Lieutenant Louis E. Porrazzo Skating Rink", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.011744, 42.382334 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Alexander S. Bajko Memorial Skating Rink", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.137721, 42.249184 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Kelly Outdoor Skating Rink", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.103279, 42.318167 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Private First Class Steven J. Steriti Memorial Sk*", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.057140, 42.368343 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Francis L. Murphy Memorial Ice Skating Rink", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.023994, 42.336973 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Jim Roche Community Ice Arena", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.173261, 42.276469 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Skating Club of Boston", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.136905, 42.363567 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Governor Dummer Academy, Murphy Frost Arena", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -70.901113, 42.751403 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Boston College, Conte Forum, Kelly Rink", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.167800, 42.335158 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Foxboro Sports Center, Rink #2", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.228005, 42.061167 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Foxboro Sports Center, Rink #1", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.227826, 42.060988 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Lt. Joseph P. Kennedy Memorial Rink", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -70.293166, 41.653972 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Merrimack College, Volpe Arena", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.119847, 42.667764 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Skate 3  Blue Rink", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.431092, 42.688592 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Martha's Vineyard Arena", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -70.591937, 41.418969 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Fessenden School, Coffin Sports Center", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.218830, 42.359011 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "The Bog", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -70.734494, 42.013751 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Melnea A. Cass Skating Rink", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.090951, 42.321841 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Holland Arena", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.130886, 42.490789 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "UMASS Mullins Center", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -72.533386, 42.389416 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Cushing Academy, Iorio Arena", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.916134, 42.634068 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Northeastern University, Matthews Arena", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.084392, 42.341291 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Nashoba Valley Olympia 1", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.491372, 42.476793 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Lars Anderson Park Rink (outdoor)", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.134280, 42.311732 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "MIT, Johnson Athletic Center", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.096619, 42.358618 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Middlesex School, Pratt Ice Rink", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.368006, 42.499581 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Ice Huts Mini Rink", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.342991, 42.677272 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Carmelita Landry Arena", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.783510, 42.594445 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Groton School, New Rink #1", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.585317, 42.595406 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Pilgrim Skating Arena 2", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -70.906548, 42.175783 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Tabor Academy, Travis Roy Rink", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -70.768083, 41.709390 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Hockey Development Mini Rink", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.229819, 42.687528 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Brooks School Arena", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.086559, 42.709103 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Hobomock Arena Rink II", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -70.804392, 42.050901 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Massports Club, Bavis Arena", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -70.917262, 42.147947 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Hockeytown USA North Rink", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.025429, 42.472242 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Stoneham Arena", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.113215, 42.481267 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Skate 3 Red Rink", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.431343, 42.688721 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Springfield Olympia Ice 3", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -72.619538, 42.138096 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Amelia Park Arena", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -72.748514, 42.112610 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Robinson-Broadhurst Community Rink", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -72.045451, 42.683325 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "DCU Center", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.798956, 42.264922 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Patrick M. Butler Rink", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -70.292966, 41.653442 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Iorio Arena Olympic Rink", "CATEGORY": "icerink" }, "geometry": { "type": "Point", "coordinates": [ -71.239516, 42.112714 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Boston Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.890107, 42.327926 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Marblehead Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.833672, 42.505425 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Graves (The) Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.869200, 42.365130 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Minots Ledge Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.759139, 42.269708 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Annisquam Harbor Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.681510, 42.661883 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Cape Ann Light (Twin Lights)", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.574988, 42.636823 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Cape Ann Light (Twin Lights)", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.574789, 42.639165 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Straitsmouth Island Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.588142, 42.662257 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Ten Pound Island Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.665544, 42.601871 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Dog Bar Breakwater Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.672350, 42.582606 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Newburyport Harbor (Plum Island) Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.818984, 42.815114 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Fort Pickering (Winter Island) Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.866462, 42.526484 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Derby Wharf Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.883538, 42.516576 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Hospital Point (Range Front) Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.855965, 42.546492 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Bakers Island Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.785946, 42.536469 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Deer Island Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.954508, 42.339848 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Long Island Head Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.957673, 42.330216 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Scituate Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.715817, 42.204753 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Duxbury Pier Light (\"Bug Light\")", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.648549, 41.987427 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Plymouth (Gurnet) Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.600572, 42.003755 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Stage Harbor Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -69.984471, 41.658407 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Nauset Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -69.952880, 41.860100 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Chatham Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -69.949894, 41.671411 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Cape Cod (Highland) Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.060537, 42.039703 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Race Point Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.243092, 42.062317 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Wood End Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.193499, 42.021221 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Long Point Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.168647, 42.033122 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Bass River Light (West Dennis Light)", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.169173, 41.651731 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Monomoy Point Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -69.993644, 41.559331 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Point Gammon Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.266221, 41.609666 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Hyannis (Rear Range) Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.288442, 41.636272 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Nobska Point Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.655110, 41.515784 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Tarpaulin Cove Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.757496, 41.468814 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Cape Poge (Pogue) Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.451889, 41.418798 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Edgartown Harbor Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.503061, 41.390868 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "East Chop (Telegraph Hill) Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.567454, 41.470263 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "West Chop Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.599782, 41.480796 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Great Point (Nantucket) Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.048174, 41.389984 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Gay Head Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.834954, 41.348451 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Sankaty Head Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -69.965205, 41.283622 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Brant Point Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.090276, 41.289925 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Bird Island Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.717323, 41.669299 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Borden Flats Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -71.174392, 41.704444 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Butler Flats Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.894482, 41.603795 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Buzzards Bay Entrance Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -71.033466, 41.396568 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Cuttyhunk Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.949570, 41.414498 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Cleveland East Ledge Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.694178, 41.630964 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Ned's Point Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.795651, 41.650872 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Palmer Island Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.909123, 41.626940 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Wings Neck Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.661214, 41.680247 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Three Sisters Light (Three Towers)", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -69.957049, 41.859670 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Three Sisters Light (Three Towers)", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -69.957162, 41.859042 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Three Sisters Light (Three Towers)", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -69.957076, 41.859447 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Nantucket Cliff Range", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.106613, 41.293916 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Sandy Neck Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.280925, 41.722649 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Newburyport Harbor Range Light (Rear Range)", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.866073, 42.811245 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Newburyport Harbor Range Light (Front Range)", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.864834, 42.811524 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Eastern Point Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.664444, 42.580222 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Nantucket Cliff Range", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.106337, 41.293837 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Clark's Point Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.901346, 41.593178 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Dumpling Rock Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.921449, 41.538301 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Ipswich Range Light (Rear Range)", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.766130, 42.685363 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Pig Rock Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.939214, 42.280099 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Wychmere Harbor Jetty Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.063350, 41.660668 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "New Bedford West Barrier Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.906118, 41.624244 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Woods Hole Passage Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.683641, 41.518442 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Sandy Point Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.942271, 42.443152 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Gallops Island Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.932547, 42.325377 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Wellfleet Harbor Breakwater Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.035686, 41.925381 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Hyannis Breakwater Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.292244, 41.624000 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Nantucket Ferry Slip Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.095294, 41.286234 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Oceanographic Pier Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.673086, 41.524553 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "New Bedford East Barrier Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.905371, 41.624690 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Long Basin Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.785043, 42.246768 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Rock Harbor Range Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.008074, 41.799553 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "West Bay Entrance Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.400302, 41.605388 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Grassy Island Ledge Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.675863, 41.521220 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Brayton Point Channel Range Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -71.189768, 41.711213 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Black Rocks Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.947827, 42.432875 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "White Rocks Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.954216, 42.425653 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Upper Turn Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.941994, 42.453152 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Pleasure Bay Jetty Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -71.015050, 42.330376 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Windmill Point Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.922014, 42.303084 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Harrys Rock Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.931714, 42.287044 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Cape Cod Canal Breakwater Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.489750, 41.778440 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Sesuit Harbor West Jetty Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.156408, 41.758998 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Bass River West Jetty Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.198630, 41.643167 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Oak Bluffs Ferry Slip Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.554472, 41.458446 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Menamsha Creek Entrance Jetty Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.768918, 41.354279 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Cleveland Ledge Channel Range Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.674755, 41.692328 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Bug Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.920047, 42.322877 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "North Pier Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.857275, 42.813425 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Black Marsh Channel Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.941994, 42.448430 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "South Channel Range Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.663646, 41.955659 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Padanaram Breakwater Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.940038, 41.574271 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Scituate North Jetty Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.713374, 42.203157 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Winthrop Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.979493, 42.361765 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "White Head Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.783654, 42.248990 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Cape Cod Canal Range Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.509195, 41.772328 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Andrews River East Jetty Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.061128, 41.663445 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Allens Harbor Breakwater Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.089462, 41.661223 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Nantucket East Breakwater Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.100294, 41.310400 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Oak Bluffs North Breakwater Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.557250, 41.460946 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Vineyard Haven Ferry Slip Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.599473, 41.455668 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Cuttyhunk Harbor North Jetty Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.916979, 41.424830 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Westport Harbor Entrance Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -71.088098, 41.507326 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Rockport Breakwater Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.611432, 42.661206 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Peddocks Island Channel Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.956992, 42.293710 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Sutton Hole Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.783654, 42.251490 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Maraspin Creek Entrance Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.300578, 41.712054 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Vineyard Haven Breakwater Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.596140, 41.457612 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Great Harbor Range Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.674752, 41.524553 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Phinneys Harbor Channel Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.632254, 41.704550 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Bryant Point Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.787265, 42.242879 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Green Pond Harbor Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.570585, 41.547332 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Falmouth Inner Harbor Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.608641, 41.541776 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Nantucket Harbor Range Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.092040, 41.289257 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Lake Tashmoo East Jetty Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.632529, 41.467889 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Juniper Point Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.668363, 41.517331 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Great Harbor Ferry Slip Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.671141, 41.522609 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Old Brant Point Lighthouse", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.092450, 41.289729 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Hospital Point Rear Range Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.877827, 42.548984 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Nantucket Harbor Range Light", "CATEGORY": "lighthouse" }, "geometry": { "type": "Point", "coordinates": [ -70.092316, 41.289883 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Arlington", "CATEGORY": "farmers-market" }, "geometry": { "type": "Point", "coordinates": [ -71.151308, 42.416228 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Ayer", "CATEGORY": "farmers-market" }, "geometry": { "type": "Point", "coordinates": [ -71.589838, 42.559401 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Belmont", "CATEGORY": "farmers-market" }, "geometry": { "type": "Point", "coordinates": [ -71.173704, 42.397022 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Beverly - Cabot Street", "CATEGORY": "farmers-market" }, "geometry": { "type": "Point", "coordinates": [ -70.877874, 42.549117 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Beverly - Saturday", "CATEGORY": "farmers-market" }, "geometry": { "type": "Point", "coordinates": [ -70.860145, 42.553145 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Boston Public Market - Dewey Square", "CATEGORY": "farmers-market" }, "geometry": { "type": "Point", "coordinates": [ -71.055215, 42.352887 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Boston Public Market - Old Northern Avenue Br", "CATEGORY": "farmers-market" }, "geometry": { "type": "Point", "coordinates": [ -71.049500, 42.354551 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Dorchester", "CATEGORY": "farmers-market" }, "geometry": { "type": "Point", "coordinates": [ -71.064331, 42.286230 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "City Hall Plaza", "CATEGORY": "farmers-market" }, "geometry": { "type": "Point", "coordinates": [ -71.059373, 42.359153 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Copley Square", "CATEGORY": "farmers-market" }, "geometry": { "type": "Point", "coordinates": [ -71.076463, 42.349642 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "East Boston", "CATEGORY": "farmers-market" }, "geometry": { "type": "Point", "coordinates": [ -71.009415, 42.384908 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Fields Corner", "CATEGORY": "farmers-market" }, "geometry": { "type": "Point", "coordinates": [ -71.062341, 42.298475 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Franklin Park Community", "CATEGORY": "farmers-market" }, "geometry": { "type": "Point", "coordinates": [ -71.086364, 42.302839 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Jamaica Plain", "CATEGORY": "farmers-market" }, "geometry": { "type": "Point", "coordinates": [ -71.114177, 42.312192 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Mission Hill", "CATEGORY": "farmers-market" }, "geometry": { "type": "Point", "coordinates": [ -71.104403, 42.334288 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Roslindale", "CATEGORY": "farmers-market" }, "geometry": { "type": "Point", "coordinates": [ -71.128162, 42.286528 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Roxbury - Dudley Town Common", "CATEGORY": "farmers-market" }, "geometry": { "type": "Point", "coordinates": [ -71.075014, 42.324985 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "South Boston", "CATEGORY": "farmers-market" }, "geometry": { "type": "Point", "coordinates": [ -71.046493, 42.336360 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "South End", "CATEGORY": "farmers-market" }, "geometry": { "type": "Point", "coordinates": [ -71.066641, 42.341647 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Boxborough", "CATEGORY": "farmers-market" }, "geometry": { "type": "Point", "coordinates": [ -71.489959, 42.478577 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Brockton - Fairgrounds", "CATEGORY": "farmers-market" }, "geometry": { "type": "Point", "coordinates": [ -71.039423, 42.075241 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Brockton - City Hall Plaza", "CATEGORY": "farmers-market" }, "geometry": { "type": "Point", "coordinates": [ -71.018013, 42.082701 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Brookline", "CATEGORY": "farmers-market" }, "geometry": { "type": "Point", "coordinates": [ -71.123707, 42.342186 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Cambridge - Central Square", "CATEGORY": "farmers-market" }, "geometry": { "type": "Point", "coordinates": [ -71.101681, 42.365222 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Cambridge - Harvard Square", "CATEGORY": "farmers-market" }, "geometry": { "type": "Point", "coordinates": [ -71.121942, 42.372306 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Cambridge - Harvard University", "CATEGORY": "farmers-market" }, "geometry": { "type": "Point", "coordinates": [ -71.115737, 42.376132 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Cambridge - Kendall Square", "CATEGORY": "farmers-market" }, "geometry": { "type": "Point", "coordinates": [ -71.091140, 42.365606 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Cambridgeport", "CATEGORY": "farmers-market" }, "geometry": { "type": "Point", "coordinates": [ -71.112294, 42.356156 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "East Cambridge (Proposed)", "CATEGORY": "farmers-market" }, "geometry": { "type": "Point", "coordinates": [ -71.077983, 42.368652 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Carlisle", "CATEGORY": "farmers-market" }, "geometry": { "type": "Point", "coordinates": [ -71.339002, 42.525087 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Charlestown", "CATEGORY": "farmers-market" }, "geometry": { "type": "Point", "coordinates": [ -71.064461, 42.375315 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Chelmsford", "CATEGORY": "farmers-market" }, "geometry": { "type": "Point", "coordinates": [ -71.375349, 42.632454 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "East Chelmsford", "CATEGORY": "farmers-market" }, "geometry": { "type": "Point", "coordinates": [ -71.299048, 42.604008 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Chelsea Community", "CATEGORY": "farmers-market" }, "geometry": { "type": "Point", "coordinates": [ -71.039966, 42.389216 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Cohasset", "CATEGORY": "farmers-market" }, "geometry": { "type": "Point", "coordinates": [ -70.803050, 42.242684 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Fitchburg", "CATEGORY": "farmers-market" }, "geometry": { "type": "Point", "coordinates": [ -71.786939, 42.596816 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Framingham", "CATEGORY": "farmers-market" }, "geometry": { "type": "Point", "coordinates": [ -71.422147, 42.275153 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Framingham - Village Green", "CATEGORY": "farmers-market" }, "geometry": { "type": "Point", "coordinates": [ -71.434710, 42.302502 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Franklin", "CATEGORY": "farmers-market" }, "geometry": { "type": "Point", "coordinates": [ -71.401540, 42.088851 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Gloucester (Proposed)", "CATEGORY": "farmers-market" }, "geometry": { "type": "Point", "coordinates": [ -70.659737, 42.611605 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Groton", "CATEGORY": "farmers-market" }, "geometry": { "type": "Point", "coordinates": [ -71.555264, 42.628479 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Hingham", "CATEGORY": "farmers-market" }, "geometry": { "type": "Point", "coordinates": [ -70.888540, 42.247863 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Hopkinton", "CATEGORY": "farmers-market" }, "geometry": { "type": "Point", "coordinates": [ -71.500917, 42.236366 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Lexington", "CATEGORY": "farmers-market" }, "geometry": { "type": "Point", "coordinates": [ -71.222228, 42.446124 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Lowell", "CATEGORY": "farmers-market" }, "geometry": { "type": "Point", "coordinates": [ -71.314163, 42.646028 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Lynn", "CATEGORY": "farmers-market" }, "geometry": { "type": "Point", "coordinates": [ -70.944611, 42.463698 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Malden", "CATEGORY": "farmers-market" }, "geometry": { "type": "Point", "coordinates": [ -71.072093, 42.427183 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Marblehead", "CATEGORY": "farmers-market" }, "geometry": { "type": "Point", "coordinates": [ -70.860782, 42.497650 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Marlboro", "CATEGORY": "farmers-market" }, "geometry": { "type": "Point", "coordinates": [ -71.546313, 42.345561 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Marshfield", "CATEGORY": "farmers-market" }, "geometry": { "type": "Point", "coordinates": [ -70.717986, 42.098746 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Maynard", "CATEGORY": "farmers-market" }, "geometry": { "type": "Point", "coordinates": [ -71.458391, 42.430783 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Melrose", "CATEGORY": "farmers-market" }, "geometry": { "type": "Point", "coordinates": [ -71.064485, 42.456430 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Milton", "CATEGORY": "farmers-market" }, "geometry": { "type": "Point", "coordinates": [ -71.066132, 42.269612 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Natick", "CATEGORY": "farmers-market" }, "geometry": { "type": "Point", "coordinates": [ -71.346641, 42.283320 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Newton", "CATEGORY": "farmers-market" }, "geometry": { "type": "Point", "coordinates": [ -71.213160, 42.331169 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Newton - Friday", "CATEGORY": "farmers-market" }, "geometry": { "type": "Point", "coordinates": [ -71.200661, 42.364967 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Norwood", "CATEGORY": "farmers-market" }, "geometry": { "type": "Point", "coordinates": [ -71.200749, 42.194215 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Peabody", "CATEGORY": "farmers-market" }, "geometry": { "type": "Point", "coordinates": [ -70.928801, 42.527437 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Quincy", "CATEGORY": "farmers-market" }, "geometry": { "type": "Point", "coordinates": [ -70.999964, 42.248916 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Revere - Beach", "CATEGORY": "farmers-market" }, "geometry": { "type": "Point", "coordinates": [ -70.991220, 42.407821 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Saugus - Cliftondale", "CATEGORY": "farmers-market" }, "geometry": { "type": "Point", "coordinates": [ -71.008510, 42.449667 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Somerville - Davis Square", "CATEGORY": "farmers-market" }, "geometry": { "type": "Point", "coordinates": [ -71.123187, 42.395570 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Somerville - Union Square", "CATEGORY": "farmers-market" }, "geometry": { "type": "Point", "coordinates": [ -71.094246, 42.379340 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Sterling", "CATEGORY": "farmers-market" }, "geometry": { "type": "Point", "coordinates": [ -71.759429, 42.438006 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Sudbury", "CATEGORY": "farmers-market" }, "geometry": { "type": "Point", "coordinates": [ -71.411453, 42.383305 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Topsfield", "CATEGORY": "farmers-market" }, "geometry": { "type": "Point", "coordinates": [ -70.945775, 42.629055 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Waltham", "CATEGORY": "farmers-market" }, "geometry": { "type": "Point", "coordinates": [ -71.237048, 42.376157 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Wayland", "CATEGORY": "farmers-market" }, "geometry": { "type": "Point", "coordinates": [ -71.373493, 42.363304 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Lake Attitash", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -70.982396, 42.842835 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Black Rock Creek", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -70.827008, 42.821450 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Cashman Park", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -70.878888, 42.818212 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Parker River", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -70.892141, 42.759119 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Rock Pond", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -71.005590, 42.730285 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Connecticut River", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -72.452119, 42.715409 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Riley Park", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -71.169284, 42.697178 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Ipswich River", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -70.827168, 42.684108 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Lanes Cove", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -70.659914, 42.680178 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Mascuppic Lake", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -71.376654, 42.679848 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Flint Pond", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -71.425898, 42.674908 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Hood Pond", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -70.958237, 42.671186 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Lake Denison", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -72.092217, 42.646431 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Long Wharf", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -70.694031, 42.641140 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Merrimack River", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -71.378673, 42.642756 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Corliss Landing", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -70.685240, 42.633429 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Laurel Lake", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -72.378054, 42.622292 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Baddacook Pond", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -71.530240, 42.623397 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Long Sought-For Pond", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -71.451431, 42.617093 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Connecticut River", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -72.541688, 42.607654 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Chebacco Lake", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -70.812999, 42.603407 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Knopps Pond", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -71.518432, 42.597126 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Millers River", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -72.299687, 42.585707 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Whalom Pond", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -71.744413, 42.573016 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Porter River", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -70.922172, 42.556671 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Windsor Pond", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -72.977907, 42.537787 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Danvers River", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -70.899042, 42.541124 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Fort Pond", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -71.690707, 42.520942 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Quabbin Reservoir", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -72.293883, 42.517992 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Pontoosuc Lake", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -73.247408, 42.484965 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Onota Lake", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -73.279873, 42.465520 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Moosehorn Pond", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -71.969187, 42.466485 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Highland Lake (Upper)", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -72.792182, 42.457817 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Horn Pond", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -71.153863, 42.464511 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Highland Lake (Lower)", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -72.797251, 42.457147 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Lynn Harbor", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -70.939636, 42.455374 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Delaney Pond", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -71.544084, 42.452317 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Asnacomet Pond", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -71.978915, 42.449306 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Housatonic River", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -73.248217, 42.436551 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Walden Pond", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -71.335207, 42.437977 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Ware River-East Branch", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -71.970957, 42.436845 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Richmond Pond", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -73.332589, 42.415115 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "White Pond", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -71.388434, 42.429132 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Housatonic River", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -73.240583, 42.393780 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Connecticut River", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -72.589296, 42.392096 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Quabbin Reservoir", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -72.237354, 42.393069 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Assabet River", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -71.586235, 42.380219 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Winthrop Harbor", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -70.972077, 42.366402 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Charles River", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -71.244969, 42.363529 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Charles River", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -71.166300, 42.359356 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Long Pond", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -71.992744, 42.358124 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Stockbridge Bowl", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -73.324174, 42.341652 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Quabbin Reservoir", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -72.366775, 42.332849 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Laurel Lake", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -73.260811, 42.322564 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Bartlett Pond", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -71.615859, 42.317698 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Hardwick Pond", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -72.241558, 42.310949 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Lake Cochituate", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -71.375922, 42.310060 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Center Pond", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -73.064988, 42.295413 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Little Chauncy Pond", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -71.614449, 42.304655 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Connecticut River", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -72.618040, 42.288461 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Lake Quinsigqmond", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -71.756393, 42.292904 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Indian Lake", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -71.814332, 42.290777 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Lake Chauncy", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -71.613311, 42.289416 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Goose Pond", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -73.200926, 42.274781 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Elm Bank (Charles River)", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -71.305245, 42.277785 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Sugden Reservoir", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -71.962537, 42.273614 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Shaw Pond", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -73.123859, 42.249350 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Red Wing Bay", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -71.264861, 42.259914 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Back River", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -70.936252, 42.251727 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Swift River", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -72.334937, 42.243376 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Lake Quinsigqmond", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -71.736448, 42.242690 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Whitehall Reservoir", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -71.571303, 42.240929 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Wickaboag Pond", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -72.148913, 42.238684 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Ashland Reservoir", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -71.469188, 42.232369 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Benedict Pond", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -73.282290, 42.201005 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "North Pond", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -71.558530, 42.205303 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Quaboag Pond", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -72.062959, 42.203553 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Scituate Harbor", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -70.726047, 42.201727 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Lake Garfield", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -73.209884, 42.189948 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Big Pond", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -73.038750, 42.179498 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Upper Spectacle Pond", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -73.117163, 42.177454 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Lake Buel", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -73.279600, 42.174974 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Lake Winthrop", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -71.420454, 42.187076 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Pequot Pond", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -72.696358, 42.178893 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "South Pond", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -72.072762, 42.180730 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Red Bridge Landing", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -72.406373, 42.177259 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Eddy Pond", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -71.842022, 42.179898 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Chicopee River", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -72.411150, 42.174802 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Singletary Pond", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -71.782797, 42.169481 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Connecticut River", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -72.625494, 42.153447 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Otis Reservoir", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -73.043515, 42.144744 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Five Mile Pond", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -72.508444, 42.140183 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Alum Pond", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -72.117456, 42.134618 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "E. Brimfield Reservoir", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -72.131696, 42.112997 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "E. Brimfield Reservoir", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -72.139399, 42.110381 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Indian Head River", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -70.819862, 42.099973 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Connecticut River", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -72.591360, 42.092885 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Manchaug Pond", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -71.769310, 42.091799 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Green Harbor", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -70.645919, 42.082760 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Thousand Acre Swamp", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -73.211003, 42.070010 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Congamond Lakes", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -72.757307, 42.041620 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "West Meadow Pond", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -71.036165, 42.034546 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Congamond Lakes", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -72.769261, 42.021133 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Webster Lake", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -71.827218, 42.027525 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Wallum Lake", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -71.768203, 42.021299 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Hockomock River", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -71.058043, 42.010928 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Monponsett Pond", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -70.843024, 42.008077 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Pamet River", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -70.072384, 41.991640 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Whiting Pond", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -71.336707, 41.994167 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Falls Pond", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -71.326888, 41.969578 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Plymouth Harbor", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -70.670638, 41.966105 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Snake River (Winnecunnet Pond)", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -71.126679, 41.967303 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Lake Nippenicket", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -71.034498, 41.963980 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Lake Sabbatia", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -71.114190, 41.946370 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Long & Little Long Ponds", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -70.609618, 41.865478 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Tispaquin Pond", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -70.854508, 41.856342 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Sandy Pond", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -70.599174, 41.809959 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Rock Harbor", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -70.005437, 41.801504 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Great Herring Pond", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -70.563851, 41.786617 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Snipatuit Pond", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -70.858179, 41.785245 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Long Pond", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -70.929788, 41.781838 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Baker Pond", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -70.001182, 41.766447 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Cliff & Little Cliff Ponds", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -70.018000, 41.759247 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Sesuit Harbor", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -70.151467, 41.753455 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Tempest Knob", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -70.701833, 41.751913 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Weweantic River", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -70.746478, 41.748852 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Sheep Pond", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -70.078608, 41.732928 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Cole River", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -71.223812, 41.726919 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Taunton River Basin", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -71.156828, 41.718491 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Blish Point", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -70.299582, 41.707970 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Peters Pond", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -70.485199, 41.685400 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Shubael Pond", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -70.395377, 41.674144 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Saquatucket Harbor", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -70.058890, 41.669116 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Cook Pond", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -71.171643, 41.675088 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "South Watuppa Pond", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -71.139641, 41.674494 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Short Wharf", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -70.812378, 41.657387 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Mashpee\/Wakeby Pond", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -70.481774, 41.651975 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Lovells Pond", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -70.445277, 41.648379 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Bass River", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -70.198097, 41.644839 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Pease Park", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -70.907011, 41.639139 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Ashumet Pond", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -70.540307, 41.634767 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Johns Pond", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -70.524334, 41.634413 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Sconticut Neck", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -70.855304, 41.619951 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "New Bedford Harbor", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -70.905845, 41.611034 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Clarks Cove", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -70.915155, 41.603813 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Apponagansett Bay", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -70.954407, 41.584680 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Green Pond", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -70.569964, 41.552444 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Westport River", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -71.068469, 41.514735 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Lagoon Pond", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -70.589663, 41.455887 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Tisbury Great Pond", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -70.654807, 41.360594 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Katama Bay", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -70.505079, 41.350624 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Hither Creek", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -70.196625, 41.274893 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Housatonic River", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -73.357764, 42.177051 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Blackstone River", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -71.636814, 42.128682 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Hopkinton Reservoir", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -71.528228, 42.247637 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Hopkinton Reservoir", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -71.520975, 42.257872 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Farm Pond", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -71.429434, 42.287879 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Long Pond", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -71.465167, 42.531462 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Seapit Landing", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -70.527736, 41.576113 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Parker River", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -70.222805, 41.649415 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Long Pond", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -70.200719, 41.667412 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Ponkapog Pond", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -71.092653, 42.188456 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Riverhead Beach", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -70.854575, 42.491758 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Merrimack River", "CATEGORY": "boat-ramp" }, "geometry": { "type": "Point", "coordinates": [ -71.045368, 42.759401 ] } }
+
+]
+}

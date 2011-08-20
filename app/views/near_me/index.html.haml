@@ -1,0 +1,15 @@
+#nearMePage{"data-role" => "page", "data-backbutton" => "true", "data-theme" => "b"}
+  %div{"data-role" => "header", "data-position" => "inline"}
+    =render :partial => 'home/title'
+    %a.ui-btn-right{:href => "/map?lat=#{params[:lat]}&lng=#{params[:lng]}", "data-icon" => "gear", :rel => "external"} Map
+  %div{"data-role" => "content"}
+    - if @spaces
+      = render :partial => "filters/filters", :locals => {:filters => near_me_filter_param(params[:lat],params[:lng])}
+      %ul{"data-role" => "listview", "data-inset" => "true"}
+        %li{"data-role" => "list-divider"}
+          Near Me
+          - cache (near_list_cache_store(params[:lng],params[:lng],params[:page],params[:filter])) do
+            =render :partial => "open_spaces/open_space", :collection => @spaces, :as => :space
+      = render :partial => "open_spaces/list_navigation", :locals => {:spaces => @spaces, :base_uri => near_me_nav_uri}
+    - else
+      %h3 Searching for your location...

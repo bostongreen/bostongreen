@@ -1,0 +1,74 @@
+
+<div data-role="page" id="mappage" data-theme="b">
+  <div data-role="header">
+    <a href='#' class='ui-btn-left ui-btn-back' data-icon='arrow-l' onclick="history.back(); return false;">Back</a>
+    <%= render :partial => "home/title" %>
+  </div>
+  <div data-role="content">
+    <div id="map"></div>
+  </div>
+
+  <% cache ( map_list_cache_store(params[:lng],params[:lat],params[:neighborhood],params[:open_space],params[:feature])) do %>
+    <script type= "text/javascript">
+      <% if @open_spaces %>
+        var parks = <%= @open_spaces.html_safe %>;
+      <% else %>
+        var parks = {};
+      <% end %>
+      <% if @open_space_name %>
+        var parkName = "<%= @open_space_name.html_safe %>";
+      <% else %>
+        var parkName = 'Parks';
+      <% end %>
+      <% if @features %>
+        var activities = <%= @features.html_safe %>;
+      <% else %> 
+        var activities = {};
+      <% end %>
+    </script>
+  <% end %>
+
+  <div id="navigation" data-role="controlgroup" data-type="vertical">
+    <a href="#" data-role="button" data-icon="plus" id="plus"
+       data-iconpos="notext"></a>
+    <a href="#" data-role="button" data-icon="minus" id="minus"
+       data-iconpos="notext"></a>
+  </div>
+</div>
+
+<div data-role="page" id="searchpage">
+  <div data-role="header">
+    <h1>Search</h1>
+  </div>
+  <div data-role="fieldcontain">
+    <input type="search" name="query" id="query"
+           value="" placeholder="Search for places"
+           autocomplete="off"/>
+  </div>
+  <ul data-role="listview" data-inset="true" id="search_results"></ul> 
+</div>
+
+<div data-role="page" id="layerspage">
+  <div data-role="header">
+    <h1>Layers</h1>
+  </div>
+  <div data-role="content">
+    <ul data-role="listview" data-inset="true" data-theme="d" data-dividertheme="c" id="layerslist"> 
+  </div>
+</div>
+
+<div id="popup" data-role="dialog">
+    <div data-position="inline" data-theme="d" data-role="header">
+        <h1>Details</h1>
+    </div>
+    <div data-theme="c" data-role="content">
+        <ul id="details-list" data-role="listview">
+        </ul>
+    </div>
+</div>
+
+<% content_for :javascripts do %>
+<script src="javascripts/OpenLayers.mobile.js"></script>  
+<script src="javascripts/mobile-base.js"></script>
+<script src="javascripts/mobile-jq.js"></script>
+<% end %>

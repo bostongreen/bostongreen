@@ -1,0 +1,22 @@
+<div id="searchPage" data-role="page" data-theme="b">
+  <div data-role="header" data-position="inline" data-backbtn="true">
+    <%= render :partial => 'home/title' %>
+  </div>
+	<div data-role="content">	
+    <h3>Your query "<%=@search_term%>" returned <%= @search_count%> result(s).</h3>
+    <% unless @spaces.empty? %>
+      <h4>Here are the top <%= @spaces.size%> result(s).</h4>
+    <% end %>    
+  <ul data-role="listview" data-inset="true">
+    <% @spaces.each do |space| %>
+      <li>
+        <% if space[2] == "OpenSpace" %>
+          <h3 class="ui-li-heading"><%= link_to space[1], "/open_spaces/#{space[0]}"%></h3>
+        <% else %>
+          <h3 class="ui-li-heading"><%= link_to space[1], "/features/#{space[0]}"%></h3>        
+        <% end %>
+      </li>
+    <% end %>
+	  </ul>
+	</div><!-- /content -->
+</div><!-- /page -->

@@ -1,0 +1,8 @@
+%div{"data-role" => "page", "data-backbutton" => "true", "data-theme" => "b"}
+  %div{"data-role" => "header", "data-position" => "inline"}
+    =render :partial => 'home/title'
+  %div{"data-role" => "content"}
+    %ul{"data-role" => "listview", "data-inset" => "true"}
+      %li{"data-role" => "list-divider"} Events
+      = render @events
+    = render :partial => "open_spaces/list_navigation", :locals => {:spaces => @events, :base_uri => events_nav_uri}

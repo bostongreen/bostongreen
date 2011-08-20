@@ -1,0 +1,15 @@
+%ul{"data-role" => "listview", "data-inset" => "true"}
+  %li{"data-role" => "list-divider"} Do More
+  /
+    %li
+      %a{:href => "#"} Association Website
+  /
+    %li
+      %a{:href => "#"} Report a Problem
+  - if has_events?(space)
+    %li
+      =link_to "Events at #{space.name}", open_space_nearby_events_url(space)
+  %li
+    =link_to "Get Involved" , getinvolved_url
+  %li
+    =link_to "Comments", comment_show_url(:id => space.id), :rel => 'external'

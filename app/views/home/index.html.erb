@@ -1,0 +1,37 @@
+<div id="homePage" data-role="page" data-theme="b">
+  <div data-role="header" data-position="inline" data-backbtn="false">
+    <%= render :partial => "home/title" %>
+  </div>
+
+  <style type="text/css">
+    .max-width-320px .search-bar {
+      margin-top:-1.4em;
+      margin-bottom:-1.8em;
+    }
+  </style>
+
+	<div data-role="content">	
+    <%= image_tag("tagline.png",:alt=>"Boston Green - find your space",:style=>"display:block;margin-left:auto;margin-right:auto;")%>
+	  <div data-role="fieldcontain" class="search-bar">
+	    <%= form_tag('search',:method=>'get')%>
+        <input type="search" name="q" id="search" value="" placeholder="Search..."/>
+      </form>
+    </div>
+		<ul data-role="listview" data-inset="true">
+      <li data-role="list-divider">Get Started</li>		  
+		  <li>
+		    <span class="ui-li-count"><%= @neighborhoods %></span>
+		    <a href="/neighborhoods">Neighborhoods</a>
+		  </li>
+		  <li>
+		    <span class="ui-li-count"><%= @events %></span>
+		    <a href="/events">Events</a>
+		  </li>
+		  <li><a href="/near">Near Me</a></li>
+		  <!--<li><a href="/map?neighborhood=11" rel="external">Map</a></li>-->
+		  <li><a href="/getinvolved">Get Involved</a></li>
+		  <li><a href="/about">About</a></li>
+	  </ul>
+	<%= link_to(image_tag("HostedBy-A.png",:style=>"padding-top:1em;display:block;"),"http://www.velir.com",:rel=>"external")%>	  
+	</div><!-- /content -->
+</div><!-- /page -->

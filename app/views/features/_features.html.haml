@@ -1,0 +1,9 @@
+%div{"data-role" => "collapsible", collapsed_feature_list?(features) => collapsed_feature_list?(features) }
+  %h3 Activities
+  - if !features.empty?
+    %ul{"data-role" => "listview", "data-inset" => "true"}
+      = render :partial => "features/feature", :collection => features
+  - else
+    %p
+      We don't have any activities for this space yet.  
+      = link_to "Help us populate the site!", "#"

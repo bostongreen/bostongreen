@@ -1,0 +1,12 @@
+#neighborhoodPage{"data-role" => "page", "data-backbutton" => "true", "data-theme" => "b"}
+  %div{"data-role" => "header", "data-position" => "inline"}
+    =render :partial => 'home/title'
+    %a.ui-btn-right{:href => "/map?neighborhood=#{params[:id]}", "data-icon" => "gear", :rel => "external"} Map
+  %div{"data-role" => "content"}
+    = render :partial => "filters/filters", :locals => {:filters => neighborhood_filter_param(params[:id])}
+    %ul{"data-role" => "listview", "data-inset" => "true"}
+      %li{"data-role" => "list-divider"}
+        =@region.name
+        - cache (list_cache_store(params[:id],params[:page],params[:filter])) do
+          =render :partial => "open_spaces/open_space", :collection => @spaces, :as => :space
+    = render :partial => "open_spaces/list_navigation", :locals => {:spaces => @spaces, :base_uri => neighborhood_nav_uri}

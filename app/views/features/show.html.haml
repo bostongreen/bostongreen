@@ -1,0 +1,17 @@
+%div{"data-role" => "page", "data-backbutton" => "true", "data-theme" => "b"}
+  %div{"data-role" => "header", "data-position" => "inline"}
+    =render :partial => 'home/title'
+    %a.ui-btn-right{:href => "/map?feature=#{@feature.id}", "data-icon" => "gear", :rel => "external"} Map
+  %div{"data-role" => "content"}
+    .ui-grid-a
+      .ui-block-a
+        %p
+          %strong= @feature.name
+        %p= @feature.tag_list.first.humanize.titleize
+      .ui-block-b
+        .rounded_corner
+          = image_tag "smith.jpeg", :class => "rounded_corner", :width => 140
+    %div{"data-role" => "collapsible-set"}      
+      = render :partial => "open_spaces/description", :locals => {:space => @feature}
+      = render :partial => "open_spaces/directions", :locals => {:space => @feature}
+    = render :partial => "open_spaces/actions", :locals => {:space => @feature}

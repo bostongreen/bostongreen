@@ -1,0 +1,23 @@
+%div{"data-role" => "page", "data-backbutton" => "true", "data-theme" => "b"}
+  %div{"data-role" => "header", "data-position" => "inline"}
+    =render :partial => 'home/title'
+  %div{"data-role" => "content"}
+    .ui-grid-a
+      .ui-block-a
+        %p= @event.name
+        %p
+          = human_readable_start_time(@event.timeify :start_time)
+          %br
+          - if @event.start_time && @event.end_time
+            = start_time_hour(@event.timeify :start_time)
+            \-
+            = start_time_hour(@event.timeify :end_time)          
+        %p
+          = link_to @event.open_spaces.first.name, open_space_url(@event.open_spaces.first)
+      .ui-block-b
+        .rounded_corner
+          -if @event.photo?
+            = image_tag @event.photo.url(:thumb), :class => "rounded_corner"
+          -else
+            = image_tag "smith.jpeg", :class => "rounded_corner", :width => 140
+    = render :partial => "open_spaces/description", :locals => {:space => @event}

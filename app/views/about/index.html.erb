@@ -1,0 +1,63 @@
+<div data-role="page" id="aboutpage" data-theme="b">
+  <div data-role="header">
+    <a href='#' class='ui-btn-left ui-btn-back' data-icon='arrow-l' onclick="history.back(); return false;">Back</a>
+    <%= render :partial => "home/title" %>
+  </div>
+  <div data-role="content">
+    <h1>About Boston Green</h1>
+    <p><strong>Boston Green: Find Your Space</strong> is a one-stop resource for finding Boston’s green spaces. Connecting you to the outdoor space you need, this website allows you to search the metro Boston area for parks, sports fields, and events and much more, based on where you live or where you’re looking to go.</p>
+    <p>We are working to populate information on green spaces. If you know something we don’t or see something wrong <a href="mailto:feedback@bostongreen.org" rel="external">tell us</a>.</p>
+    <p>Boston Green was developed as a part of <a href="http://www.boston.com/business/technology/innoeco/2011/02/winners_of_the_first-ever_bost.html" rel="external">Boston Globe’s Hack Day Challenge</a> and won Grand Prize in the judged competition.  
+      <ul data-role="listview" data-inset="true">
+        <li data-role="list-divider">The Team</li>
+        <li role="option">
+          <h3><a href="http://www.petergett.com/m" rel="external">Peter Gett</a></h3>
+          <p>Marketing Specialist / Graphic Designer</p>
+        </li>        
+        <li role="option">
+          <h3><a href="http://jonherman.com" rel="external">Jon Herman</a></h3>
+          <p>Front-end / Back-end Developer</p>
+        </li>        
+        <li role="option">
+          <h3><a href="http://tfmorris.blogspot.com" rel="external">Tom Morris</a></h3>
+          <p>GIS Specialist / Android Developer</p>
+        </li>
+        <li role="option">
+          <h3><a href="http://www.davidnorcott.com/" rel="external">David Norcott</a></h3>
+          <p>Front-end Developer</p>
+        </li>
+        <li role="option">
+          <h3><a href="http://rafkind.com/dave" rel="external">David Rafkind</a></h3>
+          <p>GIS Specialist / Architect</p>
+        </li>
+        <li role="option">
+          <h3><a href="http://p-rob.me" rel="external">Patrick Robertson</a></h3>
+          <p>Lead Developer</p>
+        </li>        
+        <li role="option">
+          <h3><a href="http://spanring.eu" rel="external">Christian Spanring</a></h3>
+          <p>GIS Specialist / Front-end Developer</p>
+        </li>
+        <li role="option">
+          <h3><a href="http://www.linkedin.com/in/hollystclair" rel="external">Holly St. Clair</a></h3>
+          <p>Team Leader</p>
+        </li>                                                
+      </ul>
+      <p><a href="http://www.twitter.com/bosgreenspace"><img src="http://twitter-badges.s3.amazonaws.com/follow_me-b.png" alt="Follow BosGreenSpace on Twitter" rel="external"/></a><p>
+      
+      <ul data-role="listview" data-inset="true">
+        <li data-role="list-divider">Data Sources</li>
+        <li role="option">
+          <h3>Sports Activities</h3>
+          <p>Map data © <a href="http://www.openstreetmap.org">OpenStreetMap</a> and contributors, CC-BY-SA</p></li>
+        <li role="option">
+          <h3>Open Space</h3>
+          <p>Map data provided by the <a href="http://www.mass.gov/mgis/">Massachusetts Office of Geographic Information (MassGIS)</a>, Public Domain</p></li>
+        <li role="option">
+          <h3>Park Information</h3>
+          <p>Provided by the <a href="http://www.mass.gov/dcr/">Department of Conservation and Recreation (DCR)</a>, Public Domain</p></li>
+      </ul>
+      
+	<%= link_to(image_tag("HostedBy-A.png",:style=>"padding-top:1em;display:block;"),"http://www.velir.com",:rel=>"external")%>        
+  </div>
+</div>

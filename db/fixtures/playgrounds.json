@@ -1,0 +1,1111 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "timestamp": "2010-08-06T17:55:26Z", "user": "Paul Knight", "tags": "\"name\"=\"Lincoln Fields Playground\",\"leisure\"=\"playground\"", "name": "Lincoln Fields Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.241430, 42.443013 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2008-09-26T03:30:08Z", "user": "jamessan", "tags": "\"created_by\"=\"Potlatch 0.10b\",\"leisure\"=\"playground\"", "name": "", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.131645, 42.346285 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-12-03T05:38:58Z", "user": "wambag", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"702\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Mother's Rest", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.091142, 42.345615 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-02-01T06:12:29Z", "user": "JasonWoof", "tags": "\"area\"=\"yes\",\"leisure\"=\"playground\"", "name": "", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.100461, 42.368846 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-03-29T09:29:02Z", "user": "Hartmut Holzgraefe", "tags": "\"massgis:ASSESS_LOT\"=\"8\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"869\",\"massgis:", "name": "Flax Pond Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.952140, 42.480209 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-03-30T18:54:42Z", "user": "telegnom", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"204\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Crest Ave Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.975091, 42.386432 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:44:48Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"999\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Green Hill Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.842715, 42.266317 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:44:50Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"138\",\"massgis:PUB_ACCESS\"=\"L\",\"massgis:", "name": "Perrault Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.988891, 42.083980 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:44:54Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"017\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"120\",\"massgi", "name": "Lincoln St Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.721416, 42.066205 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-07-18T02:49:41Z", "user": "n1dom", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"3314\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis", "name": "Elm St. Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.997277, 42.246296 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-05-13T21:18:32Z", "user": "grossing", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"830\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Northern Ave. Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.960961, 42.472305 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:44:58Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"113\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Downey School Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.994066, 42.077851 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:44:59Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"116\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1714\",\"massg", "name": "Gage St. Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.884541, 42.556893 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:45:00Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"MANY\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1293\",\"mass", "name": "Ganine Doucette Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.657410, 42.620065 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:45:01Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"28\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1085\",\"massgi", "name": "Howe Street Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.902474, 42.686184 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:45:04Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1004\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis", "name": "Kingsley Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.877233, 42.285137 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:45:05Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"4;5\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1715\",\"massg", "name": "Brook St Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.766575, 42.578727 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-05-13T21:41:11Z", "user": "grossing", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"211\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Norman F. Daw Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.973441, 42.374356 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:45:07Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"10\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"828\",\"massgis", "name": "Filenes Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.962431, 42.465237 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:45:08Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"35\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"5022\",\"massgi", "name": "Harris Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.995108, 42.228618 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:45:09Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"21\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1277\",\"massgi", "name": "Preston St. Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.972449, 42.588678 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:45:10Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1710\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis", "name": "Longfellow Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.852826, 42.578751 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:45:11Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"37\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:O", "name": "Hatherly Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.772741, 42.214729 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:45:14Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"174\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1389\",\"massg", "name": "Rainbow Terrace Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.891598, 42.501833 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:45:15Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"163\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1327\",\"massg", "name": "Lawrence St Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.934200, 42.559838 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:45:16Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"165\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1707\",\"massg", "name": "Mckay Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.889508, 42.559502 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:45:19Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"62\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1288\",\"massgi", "name": "Putnamville Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.935507, 42.586347 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:45:20Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"143\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"810\",\"massgi", "name": "Sagamore St. Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.940268, 42.460727 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:45:21Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"995\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Hamption Circle Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.864420, 42.272032 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:45:26Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"1\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"832\",\"massgis:", "name": "Gowdy Memorial Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.982636, 42.507808 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-02-21T21:54:25Z", "user": "Ahlzen", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"74\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:O", "name": "Lovell Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.923854, 42.217386 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-03-30T18:54:37Z", "user": "telegnom", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"207\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Fort Banks Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.980822, 42.385215 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:45:33Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"67\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1825\",\"massgi", "name": "Whitney Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.982482, 42.516248 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:45:35Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"254\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1802\",\"massg", "name": "Cottage St. Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.924093, 42.518406 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-03-14T22:22:45Z", "user": "MJPacino", "tags": "\"massgis:ASSESS_LOT\"=\"150\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1733\",\"massg", "name": "Cove Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.861641, 42.555399 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-01-16T22:10:16Z", "user": "Ahlzen", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"3233\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis", "name": "Birches Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.930795, 42.205177 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:45:40Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"99A\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1290\",\"massg", "name": "Strawberry Hill Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.946293, 42.585863 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-05-13T21:18:47Z", "user": "grossing", "tags": "\"massgis:ASSESS_LOT\"=\"4\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"873\",\"massgis:", "name": "Frey Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.980384, 42.471792 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2011-01-07T02:14:43Z", "user": "Ahlzen", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"82\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:O", "name": "Greenbush Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.751709, 42.178158 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:45:43Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"5\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"842\",\"massgis:", "name": "Marion Gardens Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.956554, 42.461371 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:45:44Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"17\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"824\",\"massgis", "name": "Ames St. Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.960625, 42.468588 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:45:45Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"205\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1315\",\"massg", "name": "Pickering Triangle Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.946292, 42.568465 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:45:46Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"981\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Hull Vililage Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.908102, 42.303354 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:45:48Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"53\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"5040\",\"massgi", "name": "Adams Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.986307, 42.224894 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-09-02T17:20:57Z", "user": "Ahlzen", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"3214\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis", "name": "Legion Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.937904, 42.223805 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-03-14T00:32:34Z", "user": "Ahlzen", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"3248\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis", "name": "Nash Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.958361, 42.186035 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:45:55Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"9\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1117\",\"massgis", "name": "Little Neck Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.794219, 42.698823 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:46:00Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"4\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1214\",\"massgis", "name": "Ellis Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.879550, 42.114640 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:46:01Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"162\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1320\",\"massg", "name": "Upland Rd Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.909232, 42.567347 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:46:03Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"6\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1739\",\"massgis", "name": "Raymond Farm Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.900668, 42.567447 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:46:05Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"9--17\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"818\",\"mass", "name": "Henry Ave. Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.952240, 42.472258 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:46:06Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"86\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1323\",\"massgi", "name": "Tapley Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.950676, 42.559784 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:46:08Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"14\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1240\",\"massgi", "name": "Myrtle St. Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.862672, 42.100715 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:46:09Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"74\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"624\",\"massgis", "name": "Hatch Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.985122, 42.153048 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:46:10Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"5\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"817\",\"massgis:", "name": "Cook St. Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.946842, 42.472954 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:46:11Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"122\",\"massgis:PUB_ACCESS\"=\"L\",\"massgis:", "name": "Hill Street Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.000124, 42.082883 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:46:14Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"4\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"827\",\"massgis:", "name": "River Street Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.978575, 42.454333 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:46:15Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"17\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"814\",\"massgis", "name": "Williams Ave. Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.931543, 42.472947 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:46:16Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"10\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"5021\",\"massgi", "name": "Mattulina Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.993205, 42.200099 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:46:18Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"440A\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1355\",\"mass", "name": "Pickering Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.941652, 42.564756 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-03-29T09:29:01Z", "user": "Hartmut Holzgraefe", "tags": "\"massgis:ASSESS_LOT\"=\"1;3\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"864\",\"massgi", "name": "Flax Pond Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.954488, 42.479912 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:46:23Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"98\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"971\",\"massgis", "name": "Reynolds Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.854272, 42.161862 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:46:24Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"73\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1363\",\"massgi", "name": "Juniper Point Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.866500, 42.533583 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-03-03T19:54:35Z", "user": "johnsdixon", "tags": "\"massgis:ASSESS_LOT\"=\"017\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"116\",\"massgi", "name": "Lincoln St Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.721881, 42.067411 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:46:25Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"101\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"788\",\"massgi", "name": "Bradley Woods Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.912871, 42.252930 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-05-14T17:02:52Z", "user": "grossing", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"114\",\"massgis:PUB_ACCESS\"=\"X\",\"massgis:", "name": "East Junior High Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.000020, 42.085711 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:46:28Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"6\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1741\",\"massgis", "name": "Livingstone Ave Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.893347, 42.553466 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:46:29Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"33\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"831\",\"massgis", "name": "Neptune Boulevard Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.957727, 42.458452 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-05-13T21:18:38Z", "user": "grossing", "tags": "\"massgis:ASSESS_LOT\"=\"4\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"874\",\"massgis:", "name": "Frey Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.979253, 42.471632 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-04-07T19:05:23Z", "user": "morganwahl", "tags": "\"massgis:ASSESS_LOT\"=\"2 3\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1290\",\"massg", "name": "Oval Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.674158, 42.616639 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:46:32Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"145\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1799\",\"massg", "name": "Pierpont Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.921899, 42.519223 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:46:33Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"48\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1341\",\"massgi", "name": "Southwick Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.950933, 42.551728 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:46:35Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"10\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1743\",\"massgi", "name": "Park St Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.883623, 42.554358 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:46:37Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"130\",\"massgis:PUB_ACCESS\"=\"L\",\"massgis:", "name": "Nadine Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.989443, 42.066833 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-03-03T19:54:20Z", "user": "johnsdixon", "tags": "\"massgis:ASSESS_LOT\"=\"000\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"364\",\"massgi", "name": "Wadsworth Rd Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.699015, 42.021682 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:46:40Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"26\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"815\",\"massgis", "name": "Sheridan St. Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.940064, 42.470601 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-05-13T21:20:41Z", "user": "grossing", "tags": "\"massgis:ASSESS_LOT\"=\"N\/A\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"879\",\"massgi", "name": "Pennybrook Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.986467, 42.476282 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:46:50Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"825\",\"massgis:ASSESS_BLK\"=\"763\",\"massgi", "name": "Elm St. Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.963085, 42.461285 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:46:52Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"112\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Davis School Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.999551, 42.055613 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-03-29T09:29:01Z", "user": "Hartmut Holzgraefe", "tags": "\"massgis:ASSESS_LOT\"=\"11\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"877\",\"massgis", "name": "Great Woods Road Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.975967, 42.492894 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:46:55Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"150\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1295\",\"massg", "name": "Elizabeth Road Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.644449, 42.619867 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:46:56Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"81\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1744\",\"massgi", "name": "Goldway Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.883004, 42.545104 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:46:58Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"61A\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1709\",\"massg", "name": "N. Beverly Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.879253, 42.580939 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:47:00Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"659\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1378\",\"massg", "name": "Broad Street Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.903889, 42.514388 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:47:02Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"1\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"812\",\"massgis:", "name": "Kiley Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.928079, 42.469532 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:47:04Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"23\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"820\",\"massgis", "name": "Barry Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.974820, 42.461730 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:47:05Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"473\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"688\",\"massgi", "name": "Collins Cove Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.887140, 42.529420 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-11-27T18:39:19Z", "user": "BiIbo", "tags": "\"massgis:ASSESS_LOT\"=\"100\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1321\",\"massg", "name": "Stone St Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.955454, 42.563490 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:47:10Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"226\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1746\",\"massg", "name": "Balch Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.884465, 42.561291 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:47:11Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"379\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"866\",\"massgi", "name": "Barlett Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.878529, 42.542773 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:47:13Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"64\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1305\",\"massgi", "name": "Burkes Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.716658, 42.587042 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-01-17T17:19:46Z", "user": "Ahlzen", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"3234\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis", "name": "Memorial Drive Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.939591, 42.209098 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-05-13T21:20:39Z", "user": "grossing", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1711\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis", "name": "Flash Road Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.931820, 42.423194 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:47:19Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"1\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"86\",\"massgis:P", "name": "Hancock St. Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.844674, 42.019395 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:47:20Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"19\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"795\",\"massgis", "name": "Hull St. Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.850202, 42.252987 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-05-13T21:18:40Z", "user": "grossing", "tags": "\"massgis:ASSESS_LOT\"=\"20\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1405\",\"massgi", "name": "Stocker Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.994555, 42.457882 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:47:26Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"5;7\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"834\",\"massgi", "name": "Hood Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.984151, 42.464083 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:47:30Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"34\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"835\",\"massgis", "name": "Magnolia Ave. Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.958528, 42.485662 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-03-03T19:53:34Z", "user": "johnsdixon", "tags": "\"massgis:ASSESS_LOT\"=\"026\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"111\",\"massgi", "name": "Keene St Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.750558, 42.070871 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-05-13T21:20:46Z", "user": "grossing", "tags": "\"massgis:ASSESS_LOT\"=\"39\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"811\",\"massgis", "name": "Gallagher Park\/Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.967898, 42.475473 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:47:35Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"455\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"710\",\"massgi", "name": "Palmer Cove Park & Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.889311, 42.513982 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:47:38Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"993\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Kenberma Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.871332, 42.279722 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:47:39Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"26\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"826\",\"massgis", "name": "Warren St. Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.960892, 42.461525 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:47:40Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"35\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"3740\",\"massgi", "name": "Middleton Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.654542, 42.617437 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:47:42Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"1;2;4\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"819\",\"mass", "name": "Smith St. Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.940227, 42.465988 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:47:43Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"01\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1345\",\"massgi", "name": "Ingersoll Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.965749, 42.569927 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:47:45Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"217\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1382\",\"massg", "name": "Witchcraft Heights Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.920429, 42.516757 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:47:46Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"3224\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis", "name": "Academy Ave Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.946094, 42.218349 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:47:48Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"101\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Ashfield School Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.996033, 42.102617 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:47:49Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"3201\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis", "name": "Bicknell Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.950991, 42.241572 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-03-29T09:29:03Z", "user": "Hartmut Holzgraefe", "tags": "\"massgis:ASSESS_LOT\"=\"1\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"837\",\"massgis:", "name": "Flax Pond Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.953044, 42.480137 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:47:53Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"17\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"863\",\"massgis", "name": "Bennett Street Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.965927, 42.455615 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-12-25T15:22:21Z", "user": "Ahlzen", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"3218\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis", "name": "Central Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.953757, 42.219734 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-10-31T18:38:29Z", "user": "Jonathan Manning", "tags": "\"massgis:ASSESS_LOT\"=\"19\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"816\",\"massgis", "name": "Clark St. Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.930029, 42.480860 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:47:59Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"206\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Pond St Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.970690, 42.388749 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:48:00Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"13\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"180\",\"massgis", "name": "Beaverbrook Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.942659, 42.119888 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-12-19T17:13:09Z", "user": "Ahlzen", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"3229\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis", "name": "Joseph Fern Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.932272, 42.212266 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:48:03Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"2\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1357\",\"massgis", "name": "Cabot Farm Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.899586, 42.534833 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:48:04Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"201\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Massa Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.969892, 42.369640 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:48:07Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"725\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Orne Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.862985, 42.507925 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:48:44Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"678\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"264\",\"massgi", "name": "Cerrone Memorial Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.088746, 42.493198 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:48:45Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"MANY\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"24\",\"massgi", "name": "Robert Whittier Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.058251, 42.412785 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:48:46Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"605\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Thetford St. Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.077883, 42.283349 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-02-16T22:10:06Z", "user": "JasonWoof", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"6545\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis", "name": "Paine Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.101412, 42.371015 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:48:50Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"4\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:OS", "name": "Pierce School Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.122100, 42.335766 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:48:51Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"149\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Mulberry Street Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.015739, 42.092801 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:48:54Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"108\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Buckley Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.011692, 42.066217 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:48:55Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"6589\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis", "name": "Oconnell Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.168980, 42.369442 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:48:56Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1009\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis", "name": "Little Scobie Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.080717, 42.322662 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:48:58Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"6595\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis", "name": "Phillips Sch. Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.180093, 42.369211 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:49:00Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1666\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis", "name": "Gooch Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.072014, 42.456608 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:49:03Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"3\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1411\",\"massgis", "name": "Eliot Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.314125, 42.273215 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-05-14T17:01:26Z", "user": "grossing", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"418\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Jays Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.005298, 42.029251 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:49:05Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"3279\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis", "name": "Cassidy Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.152248, 42.334888 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:49:08Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"17\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"73\",\"massgis:", "name": "Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.121870, 42.698927 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:49:09Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"3249\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis", "name": "Hardiman Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.166101, 42.351346 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-09-10T06:51:24Z", "user": "wambag", "tags": "\"massgis:ASSESS_LOT\"=\"23\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"5077\",\"massgi", "name": "McDonald Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.230820, 42.367519 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:49:11Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1659\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis", "name": "Conant Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.078713, 42.457133 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:49:11Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"6536\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis", "name": "Lopez School Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.105217, 42.361540 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:49:12Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"3577\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis", "name": "Walter Griffin Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.174094, 42.114136 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:49:14Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1020\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis", "name": "Washington St. School Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.171175, 42.385448 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:49:15Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"6A\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"7\",\"massgis:P", "name": "Robert Mcgrann Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.050516, 42.421782 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:49:16Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1023\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis", "name": "Grove St Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.159122, 42.382178 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:49:17Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"478\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Mission Hill Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.099161, 42.332977 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:49:18Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"3314\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis", "name": "Pagel Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.118824, 42.289132 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:49:19Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"3\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1407\",\"massgis", "name": "Memorial School Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.322424, 42.269769 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:49:20Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"337\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Ross Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.112954, 42.264060 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-10-12T13:22:26Z", "user": "OceanVortex", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"616\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Morse Kelley", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.110517, 42.387973 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:49:21Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"6434\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis", "name": "Ambrose Elementary School Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.155550, 42.445961 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-10-05T16:28:10Z", "user": "OceanVortex", "tags": "\"massgis:ASSESS_LOT\"=\"007\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"282\",\"massgi", "name": "Patchell Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.073287, 42.439616 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:49:24Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"55\",\"massgis:ASSESS_BLK\"=\"386--4\",\"mass", "name": "Sherrin And Dale St Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.123587, 42.270755 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:49:26Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"311\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Charter St Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.053444, 42.366684 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:49:29Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"370\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Heath School Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.148187, 42.327823 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-10-06T02:28:41Z", "user": "OceanVortex", "tags": "\"massgis:ASSESS_LOT\"=\"702\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"309\",\"massgi", "name": "Devir Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.077211, 42.419870 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-03-28T19:39:47Z", "user": "telegnom", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"6420\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis", "name": "Adjacent Lebanon St Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.057127, 42.448318 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:49:31Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"3315\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis", "name": "Cardillo Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.118488, 42.285056 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:49:47Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"102\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1466\",\"massg", "name": "River Street Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.458808, 42.594762 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-03-30T19:47:04Z", "user": "telegnom", "tags": "\"massgis:ASSESS_LOT\"=\"97\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"3642\",\"massgi", "name": "Harborwood Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.425082, 42.113814 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:49:51Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"34\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"5330\",\"massgi", "name": "Mellen St. Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.507532, 42.115817 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:49:53Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1326\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis", "name": "Rockdale Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.646869, 42.151109 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:49:54Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"63\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1324\",\"massgi", "name": "Plummer Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.644204, 42.125432 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-03-21T09:48:15Z", "user": "Hartmut Holzgraefe", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1012\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis", "name": "Fayville Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.507405, 42.297235 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:49:57Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"14\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"6193\",\"massgi", "name": "Jersey Street Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.558953, 42.663334 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:49:59Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"216\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1069\",\"massg", "name": "North St Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.395966, 42.142157 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:50:00Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1329\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis", "name": "Whitin Park Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.666959, 42.111407 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:50:01Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"3\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1390\",\"massgis", "name": "Brown Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.384793, 42.292359 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2011-02-15T14:00:47Z", "user": "uboot", "tags": "\"massgis:ASSESS_LOT\"=\"2378\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"5588\",\"mass", "name": "Hecla Street Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.615616, 42.072983 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:50:05Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"2.5\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"172\",\"massgi", "name": "Pratt Farm Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.699346, 42.270187 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:50:07Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"49\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1068\",\"massgi", "name": "Partridge St Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.428187, 42.168724 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:50:09Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"2.5\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"174\",\"massgi", "name": "Pratt Farm Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.697957, 42.267824 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:50:10Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"3149\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"5586\",\"mass", "name": "Henry Street Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.612483, 42.080961 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:50:10Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"27\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1318\",\"massgi", "name": "Goulet Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.648171, 42.140483 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:50:12Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"5032\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis", "name": "Main St School Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.535500, 42.019673 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:50:14Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1616\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis", "name": "Loring Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.408557, 42.349951 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:50:15Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"234\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"607\",\"massgi", "name": "Coolidge Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.450482, 42.428302 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:50:16Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"56\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1321\",\"massgi", "name": "Linwood Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.640023, 42.101887 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:50:17Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"95\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1540\",\"massgi", "name": "Cherry St. Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.556414, 42.391075 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:50:20Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"25\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"306\",\"massgis", "name": "N. Bellingham Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.451864, 42.126698 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:50:21Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1274\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis", "name": "Fruit & Main St Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.524670, 42.134735 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2011-02-15T14:00:10Z", "user": "uboot", "tags": "\"massgis:ASSESS_LOT\"=\"2378\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"5587\",\"mass", "name": "Hecla Street Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.612962, 42.072362 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:50:23Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"64\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"3552\",\"massgi", "name": "Nason Street Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.402023, 42.081129 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-03-30T19:46:35Z", "user": "telegnom", "tags": "\"massgis:ASSESS_LOT\"=\"95\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"3564\",\"massgi", "name": "Harborwood Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.423933, 42.114082 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:50:25Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"23\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"476\",\"massgis", "name": "Amory A. Lawrence Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.570430, 42.604035 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-05-16T19:38:00Z", "user": "Hartmut Holzgraefe", "tags": "\"massgis:ASSESS_LOT\"=\"3\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1396\",\"massgis", "name": "West Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.380461, 42.281432 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-05-16T19:24:06Z", "user": "Hartmut Holzgraefe", "tags": "\"massgis:ASSESS_LOT\"=\"3\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1376\",\"massgis", "name": "Wilson Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.357443, 42.302917 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:50:29Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"2260\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis", "name": "Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.366545, 42.321209 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:50:30Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"2.5\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"173\",\"massgi", "name": "Pratt Farm Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.698767, 42.268910 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:50:31Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"2259\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis", "name": "Hannah Williams Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.363930, 42.318494 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:50:33Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"138\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1328\",\"massg", "name": "Vail Field Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.681561, 42.118140 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:50:41Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"3162\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"142\",\"massg", "name": "Mary Dennison Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.406980, 42.277220 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:50:43Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"7022\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"213\",\"massg", "name": "Mary Dennison Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.405588, 42.277128 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:50:44Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"4647\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"28\",\"massgi", "name": "Woodfield Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.425084, 42.336493 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:50:46Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"31629056\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"247\",\"m", "name": "Mary Dennison Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.404695, 42.277377 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:50:47Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"6676\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"274\",\"massg", "name": "Mary Dennison Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.405702, 42.276187 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:50:49Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"9345\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"154\",\"massg", "name": "Anna Murphy Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.426961, 42.267054 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:50:56Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"270\",\"massgis:ASSESS_BLK\"=\"2244\",\"massg", "name": "Rideout Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.399821, 42.457051 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-05-16T19:42:44Z", "user": "Hartmut Holzgraefe", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"524\",\"massgis:ASSESS_BLK\"=\"477\",\"massgi", "name": "South Meadow Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.362780, 42.450445 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-05-16T19:55:40Z", "user": "Hartmut Holzgraefe", "tags": "\"massgis:ASSESS_LOT\"=\"1\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"574\",\"massgis:", "name": "South Meadow Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.360935, 42.451686 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:51:01Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"273\",\"massgis:ASSESS_BLK\"=\"478\",\"massgi", "name": "South Meadow Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.366692, 42.450556 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-02-22T21:54:47Z", "user": "SuitGuy", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1660\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis", "name": "Messenger Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.070199, 42.465722 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:51:04Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"6602\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis", "name": "Sullivan Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.156812, 42.372748 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:51:04Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"6511\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis", "name": "Corporal Burns Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.115455, 42.367451 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:51:06Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"263\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Readville Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.134968, 42.239587 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:51:07Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"122\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Lawton Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.126783, 42.349415 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:51:09Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"355\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "American Legion Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.029478, 42.381944 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:51:10Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"9\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"48\",\"massgis:P", "name": "Carl Thomas Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.139167, 42.696955 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:51:10Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"525\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Paul Gore St Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.108068, 42.319850 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:51:12Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"372\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Waldstein Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.143102, 42.336470 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:51:15Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"605\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "North Street Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.131181, 42.406465 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-07-01T06:04:30Z", "user": "dahveed76", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"400\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "McMorrow Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.051000, 42.295896 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:51:17Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"12\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"555\",\"massgis", "name": "Hovey Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.311737, 42.666048 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:51:19Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"3280\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis", "name": "Joyce Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.151433, 42.345372 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:51:20Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"500\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Wintrhop Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.075926, 42.317469 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:51:20Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"19\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"5573\",\"massgi", "name": "Richmond Ave Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.304410, 42.635285 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:51:21Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"106\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"6281\",\"massg", "name": "Baskin Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.237950, 42.471966 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:51:22Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"3239\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis", "name": "Garvey Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.045613, 42.287955 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:51:24Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1667\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis", "name": "Washington Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.060992, 42.452725 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:51:25Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"607\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Hoyt-Sullivan Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.101469, 42.390570 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:51:25Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"136\",\"massgis:PUB_ACCESS\"=\"L\",\"massgis:", "name": "Parmenter Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.026254, 42.088447 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2011-02-06T03:17:18Z", "user": "synack", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"619\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Otis Street Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.090166, 42.388264 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:51:29Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"91\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1676\",\"massgi", "name": "Soccer Field & Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.012465, 42.593439 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:51:30Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"604\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Walker Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.089520, 42.278018 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:51:31Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"3255\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis", "name": "Hooker St Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.125341, 42.359519 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:51:31Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"617\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Miranda Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.065526, 42.318682 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:51:32Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"3346\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis", "name": "Tilden Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.123757, 42.181441 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2011-01-30T22:23:20Z", "user": "synack", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"604\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Woodstock Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.133972, 42.404591 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:51:35Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"111\",\"massgis:PUB_ACCESS\"=\"X\",\"massgis:", "name": "Clifford Avenue Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.028378, 42.109292 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:51:35Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"146\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Sewall School Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.123088, 42.325549 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-05-14T11:53:17Z", "user": "grossing", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"492\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Mclaughlin Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.102538, 42.328307 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:51:39Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"341\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Sweeney Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.051552, 42.337256 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:51:40Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"49\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"53\",\"massgis:", "name": "Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.134899, 42.696306 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:51:42Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"33\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"636\",\"massgis", "name": "Brookville Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.008346, 42.124509 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:51:44Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"33\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"52\",\"massgis:", "name": "Grogan Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.136560, 42.702465 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:51:45Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"345\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Christoper Lee Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.031877, 42.337751 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:51:45Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"3\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1401\",\"massgis", "name": "Johnson Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.350711, 42.278612 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:51:46Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"473\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Whittier Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.088248, 42.333974 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-05-14T17:01:32Z", "user": "grossing", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"164\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "West Chestnut St. Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.051107, 42.055713 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:51:50Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"613\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Downer Ave Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.061613, 42.311550 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:51:51Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"6572\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis", "name": "Cunniff Sch. Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.199518, 42.376307 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:51:51Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"3345\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis", "name": "Ponkapoag Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.124760, 42.188928 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-02-13T20:40:11Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"6546\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis", "name": "Graham and Parks School Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.123630, 42.382587 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:51:55Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"60\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"6271\",\"massgi", "name": "Potters Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.268424, 42.590987 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:51:56Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"538\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Flaherty Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.104398, 42.311708 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2011-01-08T19:10:54Z", "user": "Pat O'Reilly", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"755\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Green St. Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.141050, 42.478246 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:51:57Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"253\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Walsh Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.070673, 42.276907 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2011-01-18T05:23:04Z", "user": "wambag", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"302\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Edwards Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.068446, 42.379420 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:52:00Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"441\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Msgr Reynolds Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.069679, 42.341063 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:52:01Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"952\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.139125, 42.411029 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:52:01Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"368\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Mclean Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.019206, 42.382691 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:52:02Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"2\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1213\",\"massgis", "name": "Fayette Street Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.302364, 42.641891 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:52:06Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"391\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Coolidge Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.131418, 42.346248 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:52:07Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"256\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Martin Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.053148, 42.279582 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-09-12T05:30:42Z", "user": "wambag", "tags": "\"massgis:ASSESS_LOT\"=\"10\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"5076\",\"massgi", "name": "McKenna Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.231272, 42.372372 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:52:10Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"3\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1386\",\"massgis", "name": "Navy Yard Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.353306, 42.287597 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:52:13Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"540\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Avery Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.233360, 42.295800 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:52:15Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"330\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Douglas Ct Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.056443, 42.365706 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:52:16Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1034\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis", "name": "Underwood Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.171686, 42.393627 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:52:16Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"600\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Albion Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.107829, 42.391999 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-11-01T00:21:53Z", "user": "morganwahl", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"6418\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis", "name": "Lincoln School Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.134554, 42.451028 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:52:20Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1013\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis", "name": "Mckinney Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.152927, 42.354807 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:52:24Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"120\",\"massgis:PUB_ACCESS\"=\"L\",\"massgis:", "name": "Old Gilmore Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.012663, 42.072375 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:52:25Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"596\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Senator Corbett Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.092917, 42.380925 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:52:26Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"200\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"689\",\"massgi", "name": "Nasella Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.062159, 42.503532 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:52:27Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"1\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"691\",\"massgis:", "name": "Mapleway Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.058665, 42.484839 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:52:30Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"130\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"6276\",\"massg", "name": "Estabrook Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.236769, 42.478278 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:52:31Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"3068\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis", "name": "Mary C Lane Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.067652, 42.259047 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:52:36Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"99\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:O", "name": "Baker School Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.158785, 42.303411 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:52:40Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"139\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"6290\",\"massg", "name": "Fiske School Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.220557, 42.458519 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:52:42Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"107\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"6370\",\"massg", "name": "Sutherland Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.197331, 42.422236 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-11-05T16:00:27Z", "user": "wambag", "tags": "\"gnis:feature_id\"=\"1972092\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"6574\",\"mass", "name": "Bemis Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.204868, 42.368875 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:52:45Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"11\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"326\",\"massgis", "name": "Bond St Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.204758, 42.189773 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:52:46Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"624\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Marshall Street Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.094082, 42.390312 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:52:50Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"6421\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis", "name": "Lebanon St. Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.056934, 42.447340 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:52:52Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"126\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"6280\",\"massg", "name": "Ivan & Justin St. Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.242204, 42.473678 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:52:56Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"353\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Paris St Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.037191, 42.372175 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:52:56Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"85\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1170\",\"massgi", "name": "Olivera Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.306214, 42.631597 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:52:57Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"141\",\"massgis:PUB_ACCESS\"=\"L\",\"massgis:", "name": "Raymond School Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.031810, 42.104200 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:53:00Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"95\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1060\",\"massgi", "name": "Monsignor Keenan Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.304946, 42.653205 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:53:01Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"5\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:OS", "name": "John E. Murphy Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.114691, 42.334949 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-10-27T05:23:24Z", "user": "fiveisalive", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"958\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.144923, 42.404082 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:53:02Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"394\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Lawton Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.127430, 42.349729 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-09-12T22:39:57Z", "user": "wambag", "tags": "\"massgis:ASSESS_LOT\"=\"6\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"5081\",\"massgis", "name": "\"Jack\" Koutoujian Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.239971, 42.360634 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:53:07Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"195\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"6316\",\"massg", "name": "Akeson Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.232490, 42.535912 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:53:08Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"395\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Devotion School Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.123449, 42.345135 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:53:11Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"32\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"85\",\"massgis:", "name": "Drummond Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.112155, 42.681740 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-10-14T15:09:49Z", "user": "Tyraloe", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"5066\",\"massgis:ASSESS_BLK\"=\"1\",\"massgis", "name": "Cedarwood Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.263665, 42.366225 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-02-09T17:28:24Z", "user": "JasonWoof", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"6621\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis", "name": "Peabody Terrace Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.115636, 42.366355 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:53:18Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"191\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"266\",\"massgi", "name": "A.P. Rounds Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.091208, 42.493506 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-05-16T19:15:58Z", "user": "Hartmut Holzgraefe", "tags": "\"massgis:ASSESS_LOT\"=\"12\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"2765\",\"massgi", "name": "Mckinnon Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.312781, 42.301507 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:53:20Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"142\",\"massgis:PUB_ACCESS\"=\"L\",\"massgis:", "name": "Richmond St. Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.030254, 42.095762 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-10-08T14:57:44Z", "user": "OceanVortex", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1646\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis", "name": "Lincoln School Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.071936, 42.452601 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:53:21Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"313\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Polcari Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.054499, 42.365085 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-03-26T08:18:36Z", "user": "JasonWoof", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"6535\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis", "name": "", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.103604, 42.370759 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:53:25Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"571\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Hynes Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.153561, 42.294675 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:53:26Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"6573\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis", "name": "Brown School Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.201240, 42.370850 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-05-16T19:47:01Z", "user": "Hartmut Holzgraefe", "tags": "\"massgis:ASSESS_LOT\"=\"3\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1381\",\"massgis", "name": "East Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.333227, 42.304506 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:53:29Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"545\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Dwight Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.253523, 42.288108 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:53:30Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"185\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"40\",\"massgis", "name": "Stadium Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.052568, 42.405497 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:53:31Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"6554\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis", "name": "Sancta Maria Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.154821, 42.392651 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:53:32Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"118\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Edgar Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.026046, 42.074972 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:53:32Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"61\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1065\",\"massgi", "name": "First Street Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.301120, 42.647784 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-03-28T19:39:58Z", "user": "telegnom", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"6422\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis", "name": "Adjacent Lebanon St Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.055899, 42.447010 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:53:36Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"418\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"5553\",\"massg", "name": "Saint Louis Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.316872, 42.658588 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:53:37Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"16\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"334\",\"massgis", "name": "Wilson St. Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.226092, 42.177975 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:53:38Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"157\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Baldwin School Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.161389, 42.322572 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:53:40Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"366\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Hunter Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.056108, 42.376340 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:53:41Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"994\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Dallin School Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.186956, 42.418364 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2011-01-05T06:59:09Z", "user": "synack", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"601\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Lexington St Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.113811, 42.394443 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:53:45Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"535\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Murphy Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.113224, 42.307343 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:53:46Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1403\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis", "name": "Hurd Ave Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.006309, 42.453259 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:53:47Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1404\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis", "name": "Veterans Memorial Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.004094, 42.454346 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:53:52Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"339\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Roberts Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.073489, 42.285671 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:53:54Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"1\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1701\",\"massgis", "name": "Golden Hills Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.053203, 42.478360 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:53:55Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"477\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Gibbons Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.098388, 42.331103 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:53:57Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"628\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Parkman Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.113094, 42.295984 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:53:58Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"131\",\"massgis:PUB_ACCESS\"=\"L\",\"massgis:", "name": "Nelson Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.018454, 42.059765 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:54:01Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"3062\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis", "name": "Eliot St Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.084554, 42.266095 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:54:02Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1013\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis", "name": "Winn Brook Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.165703, 42.399244 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-11-23T07:49:23Z", "user": "wambag", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"113\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Smith St Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.131161, 42.364975 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:54:05Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"6609\",\"massgis:PUB_ACCESS\"=\"L\",\"massgis", "name": "Shady Hill Middle School Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.137343, 42.371535 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:54:06Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"293\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "O\"Reilly Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.060038, 42.378560 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-10-27T03:07:22Z", "user": "OceanVortex", "tags": "\"massgis:ASSESS_LOT\"=\"6\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"6438\",\"massgis", "name": "Franklin School Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.061723, 42.466730 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:54:07Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"7\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"6068\",\"massgis", "name": "Rahanis Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.193218, 42.515602 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:54:09Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"49\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"5019\",\"massgi", "name": "Dyer Hill Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.007133, 42.195716 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:54:12Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"589\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Ripley Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.076024, 42.299369 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:54:13Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"168\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"637\",\"massgi", "name": "Sumner Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.006051, 42.152593 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:54:17Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"6\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"276\",\"massgis:", "name": "Steele Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.098426, 42.480288 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:54:18Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"6597\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis", "name": "E.Housing Proj. Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.160605, 42.367771 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:54:20Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"140\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"15\",\"massgis", "name": "John Gramstorf Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.042958, 42.407842 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:54:21Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"6509\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis", "name": "Cooper Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.107852, 42.369450 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:54:22Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"40\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"33\",\"massgis:", "name": "John Kearins Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.059282, 42.406111 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:54:22Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"104\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"544\",\"massgi", "name": "Carrick Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.353597, 42.685991 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:54:23Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"488\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Connolly Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.096178, 42.322773 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:54:25Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"459\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Worcester St. Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.079548, 42.341055 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:54:25Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"140\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"17\",\"massgis", "name": "Jacob Scharf Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.044457, 42.403882 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:54:26Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"3A\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"5011\",\"massgi", "name": "Hollingsworth Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.023757, 42.195631 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:54:27Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"6\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:OS", "name": "Boylston Street Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.121890, 42.331204 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:54:29Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"105\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Brookline Avenue Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.112951, 42.334487 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:54:31Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"6439\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis", "name": "Parkhurst School Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.162489, 42.446068 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:54:32Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"270\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Amatucci Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.126452, 42.248575 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:54:33Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"246\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"5572\",\"massg", "name": "Fayette Street Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.302107, 42.641922 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-03-28T19:39:28Z", "user": "telegnom", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1669\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis", "name": "Lebanon St. Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.056540, 42.446798 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-05-16T19:52:41Z", "user": "Hartmut Holzgraefe", "tags": "\"massgis:ASSESS_LOT\"=\"3\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1383\",\"massgis", "name": "Lilja Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.327819, 42.295574 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:54:41Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"378\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Driscoll School Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.136217, 42.340688 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:54:44Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"6580\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis", "name": "Lowell Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.183094, 42.377697 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:54:47Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"288\",\"massgis:PUB_ACCESS\"=\"L\",\"massgis:", "name": "Barry Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.114605, 42.414284 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:54:48Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"5506\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis", "name": "Varney Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.328841, 42.566330 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:54:50Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"260\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1036\",\"massg", "name": "Fells Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.325965, 42.655532 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-03-28T19:39:07Z", "user": "telegnom", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"6423\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis", "name": "Adjacent Lebanon St Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.055449, 42.446907 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:54:52Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"162\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Tukis Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.013538, 42.099306 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:54:53Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"112\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"16\",\"massgis", "name": "Sidney Shapiro Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.039921, 42.404949 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:54:55Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"3264\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis", "name": "Lambert Ave Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.090650, 42.327233 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:54:56Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"404\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Billy Ward Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.118159, 42.336686 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:54:57Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"7B\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"692\",\"massgis", "name": "Sullivan Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.052893, 42.511501 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:54:58Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"3\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1374\",\"massgis", "name": "Bennett-Hemenway Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.357927, 42.308134 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:55:01Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"3\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1421\",\"massgis", "name": "Murphy Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.358080, 42.296587 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:55:02Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"499\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Hannon Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.071458, 42.319512 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:55:03Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"375\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Clark Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.125853, 42.327463 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:55:06Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"103\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Harold D. Bent Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.034062, 42.082982 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:55:07Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"8\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1402\",\"massgis", "name": "Anna Parker Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.016471, 42.449429 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:55:08Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"124\",\"massgis:PUB_ACCESS\"=\"L\",\"massgis:", "name": "Huntington Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.019444, 42.062451 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-05-14T11:29:07Z", "user": "grossing", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"401\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Amory Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.113189, 42.346020 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:55:11Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"140\",\"massgis:PUB_ACCESS\"=\"L\",\"massgis:", "name": "Puffer Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.010448, 42.092836 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:55:12Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"36\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1249\",\"massgi", "name": "Perry Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.330717, 42.636770 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:55:13Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"107\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"6417\",\"massg", "name": "Baskin Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.240122, 42.471542 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:55:14Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"76\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"4\",\"massgis:P", "name": "Arthur Nelson Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.041479, 42.422210 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:55:15Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"343\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Buckley Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.049216, 42.339418 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:55:17Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"80\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1026\",\"massgi", "name": "Father Maguire Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.335636, 42.650571 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:55:18Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"310\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Foster St Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.053921, 42.367540 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:56:02Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"560\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Alberta St Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.159892, 42.281112 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:56:04Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"314\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Defilippo Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.056876, 42.366558 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:56:07Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"406\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1041\",\"massg", "name": "Saint Louis Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.315264, 42.657818 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:56:11Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"1672\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"524\",\"massg", "name": "Jefferson Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.108551, 42.326148 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:56:16Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"50\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"688\",\"massgis", "name": "Moulton Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.080306, 42.498606 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:56:18Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"3\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:OS", "name": "Longwood Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.114994, 42.339754 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:56:27Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"84\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1171\",\"massgi", "name": "Olivera Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.305402, 42.631282 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:56:32Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"6537\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis", "name": "Lowell School Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.133683, 42.375231 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:56:36Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"98\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1647\",\"massgi", "name": "James Swamp & Reynolds Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.095965, 42.665096 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:56:38Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"2887\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis", "name": "June Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.247262, 42.207985 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-10-19T04:22:14Z", "user": "OceanVortex", "tags": "\"massgis:ASSESS_LOT\"=\"147\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"30\",\"massgis", "name": "Wasgatt Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.063712, 42.409235 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:56:42Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"34\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:O", "name": "Mozart St Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.104574, 42.322569 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:56:43Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"154\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"14\",\"massgis", "name": "Walter Morris Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.044685, 42.409562 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:56:44Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"625\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Healy Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.123691, 42.288361 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:56:46Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"555\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Erie-Ellington St Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.083264, 42.301361 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:56:49Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"26\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"8\",\"massgis:P", "name": "Central Avenue Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.055082, 42.415060 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:56:51Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"61\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"367\",\"massgis", "name": "Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.071187, 42.016182 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-12-12T22:15:26Z", "user": "morganwahl", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"612\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Palmacci Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.105958, 42.379889 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:56:58Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"290\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Cook St Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.064235, 42.380806 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:57:00Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1009\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis", "name": "Peqousette Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.183648, 42.383155 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:57:02Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"82\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"2880\",\"massgi", "name": "Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.189772, 42.218097 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:57:08Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"6563\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis", "name": "Hurly St\/Vfw Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.083032, 42.368422 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:57:11Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"4\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"5036\",\"massgis", "name": "Lazazzero Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.242875, 42.404816 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:57:14Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"6497\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis", "name": "Agassiz-Alden Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.116386, 42.382829 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:57:16Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"6521\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis", "name": "Gannett Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.089568, 42.372837 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-05-14T11:01:25Z", "user": "grossing", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"307\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Puopolo Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.054992, 42.368536 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:57:24Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"518\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Edgerly Road Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.087902, 42.346290 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-10-12T13:22:30Z", "user": "OceanVortex", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"617\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Dickerman Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.111535, 42.386559 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:57:25Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"3260\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis", "name": "O\"Day Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.075351, 42.340759 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:57:27Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"259\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Byrne Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.052212, 42.300936 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-01-16T23:02:43Z", "user": "Gooserider", "tags": "\"massgis:ASSESS_LOT\"=\"187--1\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"6362\",\"ma", "name": "Kolrasch Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.289108, 42.587128 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:57:31Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"497\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"5545\",\"massg", "name": "Moody Street Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.321367, 42.650361 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:57:33Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"163\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Walker Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.030231, 42.105736 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:57:33Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"690\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"5554\",\"massg", "name": "Saint Louis Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.315101, 42.656853 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:57:35Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"16\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"5574\",\"massgi", "name": "Richmond Ave Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.304205, 42.634967 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:57:38Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"132\",\"massgis:PUB_ACCESS\"=\"L\",\"massgis:", "name": "North Jr. High Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.028372, 42.101780 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:57:39Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"6585\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis", "name": "W.Housing Proj. Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.193820, 42.376640 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:57:39Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"373\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Runkle School Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.141776, 42.334168 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-11-14T05:52:35Z", "user": "OceanVortex", "tags": "\"massgis:ASSESS_LOT\"=\"68\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"31\",\"massgis:", "name": "Appleton Street Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.063154, 42.407028 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:57:42Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"30\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:O", "name": "Clifford Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.068900, 42.326322 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:57:43Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"490\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Bromley Heath Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.101621, 42.324268 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:57:44Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"3343\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis", "name": "Messinger St. Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.148070, 42.148134 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-10-26T03:48:11Z", "user": "Prithason", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"6520\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis", "name": "Fulmore Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.106713, 42.357395 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:57:48Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"3\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1412\",\"massgis", "name": "Hunnewell Field Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.312828, 42.271237 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:57:49Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"383\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Juniper Street Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.117338, 42.329996 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:57:51Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"106\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Brookfield School Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.010396, 42.117537 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:57:52Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"123\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"5546\",\"massg", "name": "Olga Nieves Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.318613, 42.643225 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:57:53Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"370\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Noyes Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.010220, 42.387764 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:57:54Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"3244\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis", "name": "Eustis St Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.074343, 42.326202 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:57:55Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"380\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Cypress Street Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.127193, 42.332167 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:57:57Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"540\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Crawford St Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.092645, 42.315490 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-08-16T00:04:46Z", "user": "wambag", "tags": "\"massgis:ASSESS_LOT\"=\"1\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"5038\",\"massgis", "name": "Graverson Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.243736, 42.412189 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:57:59Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"348\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Sumner And Lamson St Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.032483, 42.365960 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:58:01Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"126\",\"massgis:PUB_ACCESS\"=\"L\",\"massgis:", "name": "Kennedy School Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.037195, 42.060756 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:58:04Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"01\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"229\",\"massgis", "name": "Newton Centre Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.196608, 42.333429 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-09-24T06:10:46Z", "user": "wambag", "tags": "\"massgis:ASSESS_LOT\"=\"49\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"6205\",\"massgi", "name": "", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.232809, 42.353855 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:58:11Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"71\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"6070\",\"massgi", "name": "Regan Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.216881, 42.516856 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:58:12Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"17\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"7081\",\"massgi", "name": "Eden Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.225292, 42.350691 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:58:13Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"3273\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis", "name": "Howes Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.078663, 42.324263 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:58:14Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"09A\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"5988\",\"massg", "name": "Claflin School Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.211936, 42.341213 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:58:16Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"16\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"5043\",\"massgi", "name": "Hillcroft Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.217570, 42.399557 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:58:18Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"01\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"7203\",\"massgi", "name": "West Newton Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.230919, 42.350255 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-05-14T17:02:48Z", "user": "grossing", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"165\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "West Junior High Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.045891, 42.080115 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:58:22Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"03\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"659\",\"massgis", "name": "Newton Centre Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.197901, 42.332524 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:58:23Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"166\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Winthrop School Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.019844, 42.095640 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:58:24Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"6561\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis", "name": "Wilder Lee St Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.105069, 42.370230 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:58:27Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"13\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1760\",\"massgi", "name": "Weeks Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.196614, 42.324690 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:58:30Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"2597\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"2991\",\"mass", "name": "Booth Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.252028, 42.058907 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:58:32Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"03\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"6620\",\"massgi", "name": "Burr Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.180891, 42.352201 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:58:33Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"34\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"50\",\"massgis:", "name": "Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.137939, 42.696820 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:58:37Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"20A\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"8574\",\"massg", "name": "Carr School Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.209739, 42.360221 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-09-08T21:47:24Z", "user": "wambag", "tags": "\"massgis:ASSESS_LOT\"=\"01\",\"gnis:feature_id\"=\"1973070\",\"massgis:DCAM_ID\"=\"0\",\"mas", "name": "Lower Falls Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.259324, 42.330508 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:58:39Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"25\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"8568\",\"massgi", "name": "Newton Highlands Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.206637, 42.317244 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:58:42Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"01\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"3905\",\"massgi", "name": "Memorial Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.188640, 42.292186 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:58:45Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"564\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Draper Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.160532, 42.260175 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:58:47Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"56\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"3999\",\"massgi", "name": "Angier Sch Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.232619, 42.326504 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-09-24T02:10:26Z", "user": "wambag", "tags": "\"massgis:ASSESS_LOT\"=\"1\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"5078\",\"massgis", "name": "Peter Gilmore Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.234732, 42.367846 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:58:50Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"3266\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis", "name": "Rotch Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.064084, 42.341657 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:58:52Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"1\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"5070\",\"massgis", "name": "Roberts Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.263064, 42.359560 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-09-17T03:21:22Z", "user": "wambag", "tags": "\"massgis:ASSESS_LOT\"=\"07\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"4040\",\"massgi", "name": "Richardson Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.220139, 42.326252 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:58:53Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"100A\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"1021\",\"mass", "name": "Payson Park Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.165971, 42.380473 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-06-18T03:23:39Z", "user": "JasonWoof", "tags": "\"gnis:feature_id\"=\"1972255\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"635\",\"massg", "name": "Central Hill Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.097350, 42.386603 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:58:56Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"80\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"6502\",\"massgi", "name": "Callanan\/Tobin School Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.138732, 42.385250 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:58:57Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"133\",\"massgis:PUB_ACCESS\"=\"L\",\"massgis:", "name": "O\"Donnell Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.009195, 42.084864 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:58:58Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"139\",\"massgis:PUB_ACCESS\"=\"L\",\"massgis:", "name": "Plymouth St. Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.012275, 42.082601 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-06-18T03:23:38Z", "user": "JasonWoof", "tags": "\"gnis:feature_id\"=\"1972255\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"618\",\"massg", "name": "Central Hill Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.095372, 42.385892 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:59:01Z", "user": "crschmidt", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"69\",\"massgis:ASSESS_BLK\"=\"186\",\"massgis", "name": "Emerson Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.350790, 42.455054 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-01-08T20:59:03Z", "user": "crschmidt", "tags": "\"massgis:ASSESS_LOT\"=\"23\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"133\",\"massgis", "name": "Bosson Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.032051, 42.392495 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2011-01-05T06:59:13Z", "user": "synack", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"620\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis:", "name": "Trum Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.108434, 42.397300 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-06-18T03:23:40Z", "user": "JasonWoof", "tags": "\"gnis:feature_id\"=\"1972255\",\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"634\",\"massg", "name": "Central Hill Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.096293, 42.386192 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-03-26T08:18:40Z", "user": "JasonWoof", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"6535\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis", "name": "", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.104431, 42.370993 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2011-01-09T02:47:30Z", "user": "synack", "tags": "\"area\"=\"yes\",\"leisure\"=\"playground\"", "name": "", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.137423, 42.389045 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2011-01-09T02:47:34Z", "user": "synack", "tags": "\"area\"=\"yes\",\"leisure\"=\"playground\"", "name": "", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.131876, 42.386400 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-02-16T06:00:21Z", "user": "Larry Stone", "tags": "\"created_by\"=\"Potlatch 0.10f\",\"area\"=\"yes\",\"leisure\"=\"playground\"", "name": "", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.133410, 42.389012 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-03-28T20:04:07Z", "user": "kellyb", "tags": "\"created_by\"=\"Potlatch 0.10f\",\"wheelchair\"=\"yes\",\"leisure\"=\"playground\"", "name": "", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.196795, 42.333367 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-04-12T14:40:34Z", "user": "Tim BL", "tags": "\"created_by\"=\"Potlatch 0.10f\",\"source\"=\"Yahoo;;survey\",\"name\"=\"Garfield Street P", "name": "Garfield Street Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.246953, 42.460496 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-04-21T20:07:27Z", "user": "JasonWoof", "tags": "\"leisure\"=\"playground\"", "name": "", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.115126, 42.367329 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-04-22T18:58:43Z", "user": "JasonWoof", "tags": "\"area\"=\"yes\",\"leisure\"=\"playground\"", "name": "", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.098470, 42.365109 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-04-23T19:04:14Z", "user": "JasonWoof", "tags": "\"leisure\"=\"playground\"", "name": "", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.111526, 42.363773 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-04-23T19:04:33Z", "user": "JasonWoof", "tags": "\"leisure\"=\"playground\"", "name": "", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.112406, 42.363292 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-04-25T00:08:14Z", "user": "JasonWoof", "tags": "\"area\"=\"yes\",\"leisure\"=\"playground\"", "name": "", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.087155, 42.352537 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-06-14T08:00:23Z", "user": "Bill Ricker", "tags": "\"leisure\"=\"playground\"", "name": "", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.061550, 42.308347 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2011-01-11T06:30:06Z", "user": "JasonWoof", "tags": "\"leisure\"=\"playground\"", "name": "", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.150413, 42.411047 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-09-22T22:49:59Z", "user": "JasonWoof", "tags": "\"leisure\"=\"playground\"", "name": "", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.111116, 42.373663 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-04-17T05:11:13Z", "user": "fiveisalive", "tags": "\"gnis:created\"=\"01\/15\/2003\",\"gnis:county_id\"=\"017\",\"name\"=\"Morse School Playgrou", "name": "Morse School Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.111713, 42.355350 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-10-26T22:48:22Z", "user": "fiveisalive", "tags": "\"leisure\"=\"playground\"", "name": "", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.145065, 42.410271 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-10-27T03:22:32Z", "user": "Prithason", "tags": "\"leisure\"=\"playground\"", "name": "", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.108264, 42.357832 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-10-27T05:46:28Z", "user": "Prithason", "tags": "\"leisure\"=\"playground\"", "name": "", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.107624, 42.361076 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2009-12-25T15:22:14Z", "user": "Ahlzen", "tags": "\"massgis:DCAM_ID\"=\"0\",\"massgis:POLY_ID\"=\"3218\",\"massgis:PUB_ACCESS\"=\"Y\",\"massgis", "name": "Central Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.952091, 42.220855 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-12-12T03:33:16Z", "user": "morganwahl", "tags": "\"leisure\"=\"playground\"", "name": "", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.100668, 42.377637 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-02-17T20:29:55Z", "user": "morganwahl", "tags": "\"leisure\"=\"playground\"", "name": "", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.055409, 42.368788 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-03-13T22:11:34Z", "user": "morganwahl", "tags": "\"leisure\"=\"playground\"", "name": "", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.013295, 42.401044 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-03-14T08:38:11Z", "user": "morganwahl", "tags": "\"leisure\"=\"playground\"", "name": "", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.995198, 42.416970 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-03-25T17:09:50Z", "user": "giovanni berlanda", "tags": "\"area\"=\"yes\",\"leisure\"=\"playground\",\"landuse\"=\"recreation_ground\"", "name": "", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.126240, 42.383200 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-03-25T02:25:19Z", "user": "Peter Dobratz", "tags": "\"leisure\"=\"playground\"", "name": "", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.444598, 42.706620 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-03-25T17:09:52Z", "user": "giovanni berlanda", "tags": "\"area\"=\"yes\",\"leisure\"=\"playground\",\"landuse\"=\"recreation_ground\"", "name": "", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.126308, 42.383298 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-04-07T19:05:15Z", "user": "morganwahl", "tags": "\"leisure\"=\"playground\"", "name": "", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.677281, 42.612773 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-09-29T21:55:59Z", "user": "JasonWoof", "tags": "\"area\"=\"yes\",\"name\"=\"Alexander W. Kemp Playground\",\"leisure\"=\"playground\"", "name": "Alexander W. Kemp Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.121394, 42.377416 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-04-09T22:37:56Z", "user": "morganwahl", "tags": "\"area\"=\"yes\",\"leisure\"=\"playground\"", "name": "", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.656577, 42.619854 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-04-10T15:01:47Z", "user": "morganwahl", "tags": "\"leisure\"=\"playground\"", "name": "", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.659319, 42.623119 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-04-10T15:01:49Z", "user": "morganwahl", "tags": "\"leisure\"=\"playground\"", "name": "", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.650645, 42.620193 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-04-12T14:36:11Z", "user": "morganwahl", "tags": "\"leisure\"=\"playground\"", "name": "", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.646414, 42.610505 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-04-16T04:04:09Z", "user": "morganwahl", "tags": "\"leisure\"=\"playground\"", "name": "", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.653431, 42.618129 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-05-11T23:32:11Z", "user": "Brian Ristuccia", "tags": "\"barrier\"=\"fence\",\"area\"=\"yes\",\"leisure\"=\"playground\",\"access\"=\"yes\"", "name": "", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.208836, 42.598649 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-06-07T03:22:52Z", "user": "morganwahl", "tags": "\"leisure\"=\"playground\"", "name": "", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.681808, 42.633254 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-08-29T02:53:20Z", "user": "JasonWoof", "tags": "\"leisure\"=\"playground\"", "name": "", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.099468, 42.439015 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2011-01-10T08:13:49Z", "user": "JasonWoof", "tags": "\"barrier\"=\"fence\",\"leisure\"=\"playground\"", "name": "", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.124387, 42.426727 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-09-04T20:01:01Z", "user": "Ahlzen", "tags": "\"leisure\"=\"playground\"", "name": "", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.011684, 42.337032 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-10-04T16:17:58Z", "user": "OceanVortex", "tags": "\"surface\"=\"sand\",\"leisure\"=\"playground\"", "name": "", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.082534, 42.431356 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-10-04T16:49:40Z", "user": "OceanVortex", "tags": "\"leisure\"=\"playground\"", "name": "", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.078811, 42.426985 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-10-04T17:05:15Z", "user": "OceanVortex", "tags": "\"surface\"=\"gravel\",\"leisure\"=\"playground\"", "name": "", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.052644, 42.429006 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-10-04T17:18:47Z", "user": "OceanVortex", "tags": "\"surface\"=\"rubber\",\"leisure\"=\"playground\"", "name": "", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.051634, 42.431221 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-10-04T21:02:47Z", "user": "OceanVortex", "tags": "\"surface\"=\"woodchips\",\"leisure\"=\"playground\"", "name": "", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.054437, 42.424737 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-10-04T23:48:34Z", "user": "OceanVortex", "tags": "\"leisure\"=\"playground\"", "name": "", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.098348, 42.415534 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-10-04T23:48:42Z", "user": "OceanVortex", "tags": "\"leisure\"=\"playground\"", "name": "", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.095743, 42.417931 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-10-05T13:03:40Z", "user": "OceanVortex", "tags": "\"leisure\"=\"playground\"", "name": "", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.054343, 42.455770 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-11-13T04:42:59Z", "user": "OceanVortex", "tags": "\"leisure\"=\"playground\"", "name": "", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.081058, 42.411252 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-10-06T21:02:24Z", "user": "OceanVortex", "tags": "\"leisure\"=\"playground\"", "name": "", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.099061, 42.424371 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-10-08T01:11:10Z", "user": "OceanVortex", "tags": "\"surface\"=\"sand\",\"leisure\"=\"playground\"", "name": "", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.050577, 42.425256 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-10-08T02:34:12Z", "user": "OceanVortex", "tags": "\"leisure\"=\"playground\"", "name": "", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.100119, 42.473858 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-10-08T02:55:50Z", "user": "OceanVortex", "tags": "\"leisure\"=\"playground\"", "name": "", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.053577, 42.440695 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-10-08T03:25:13Z", "user": "OceanVortex", "tags": "\"leisure\"=\"playground\"", "name": "", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.072028, 42.385202 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-10-09T03:19:08Z", "user": "OceanVortex", "tags": "\"leisure\"=\"playground\"", "name": "", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.066030, 42.394412 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-10-09T05:27:27Z", "user": "morganwahl", "tags": "\"leisure\"=\"playground\"", "name": "", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.677904, 42.605816 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-10-09T17:44:15Z", "user": "Peter Dobratz", "tags": "\"leisure\"=\"playground\"", "name": "", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.144643, 42.359397 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-10-09T17:44:17Z", "user": "Peter Dobratz", "tags": "\"leisure\"=\"playground\"", "name": "", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.146262, 42.359116 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-10-11T00:47:34Z", "user": "OceanVortex", "tags": "\"leisure\"=\"playground\"", "name": "", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.085681, 42.369072 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-10-11T03:57:19Z", "user": "OceanVortex", "tags": "\"leisure\"=\"playground\"", "name": "", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.092180, 42.377296 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-10-11T03:57:41Z", "user": "OceanVortex", "tags": "\"leisure\"=\"playground\"", "name": "", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.107397, 42.383228 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-10-15T16:36:29Z", "user": "OceanVortex", "tags": "\"leisure\"=\"playground\"", "name": "", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.094968, 42.484098 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-10-16T11:51:54Z", "user": "OceanVortex", "tags": "\"leisure\"=\"playground\"", "name": "", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.028591, 42.483303 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-10-16T11:52:05Z", "user": "OceanVortex", "tags": "\"leisure\"=\"playground\"", "name": "", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.034570, 42.492150 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-10-16T16:08:18Z", "user": "OceanVortex", "tags": "\"leisure\"=\"playground\"", "name": "", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -70.924723, 42.507062 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-10-16T18:57:02Z", "user": "OceanVortex", "tags": "\"leisure\"=\"playground\"", "name": "", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.152766, 42.470810 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-10-18T23:22:03Z", "user": "OceanVortex", "tags": "\"leisure\"=\"playground\"", "name": "", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.084334, 42.420839 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-10-19T04:22:19Z", "user": "OceanVortex", "tags": "\"leisure\"=\"playground\"", "name": "", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.068607, 42.413740 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-11-14T05:52:29Z", "user": "OceanVortex", "tags": "\"leisure\"=\"playground\"", "name": "", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.067095, 42.404038 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-10-20T04:32:10Z", "user": "OceanVortex", "tags": "\"leisure\"=\"playground\"", "name": "", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.035247, 42.433628 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-10-23T01:52:39Z", "user": "OceanVortex", "tags": "\"leisure\"=\"playground\"", "name": "", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.067627, 42.382190 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-10-23T01:52:46Z", "user": "OceanVortex", "tags": "\"leisure\"=\"playground\"", "name": "", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.067898, 42.382281 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-10-25T01:58:15Z", "user": "OceanVortex", "tags": "\"leisure\"=\"playground\"", "name": "", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.099044, 42.421638 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-11-13T02:35:53Z", "user": "OceanVortex", "tags": "\"leisure\"=\"playground\"", "name": "", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.065898, 42.441279 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-10-27T03:07:10Z", "user": "OceanVortex", "tags": "\"leisure\"=\"playground\"", "name": "", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.062824, 42.466086 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-10-28T00:41:00Z", "user": "OceanVortex", "tags": "\"leisure\"=\"playground\"", "name": "", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.052154, 42.457875 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-10-28T00:41:01Z", "user": "OceanVortex", "tags": "\"leisure\"=\"playground\"", "name": "", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.052293, 42.457633 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-10-30T02:29:57Z", "user": "morganwahl", "tags": "\"leisure\"=\"playground\"", "name": "", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.138666, 42.446264 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-10-30T03:45:57Z", "user": "OceanVortex", "tags": "\"leisure\"=\"playground\"", "name": "", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.132623, 42.463124 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-10-30T03:45:57Z", "user": "OceanVortex", "tags": "\"leisure\"=\"playground\"", "name": "", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.130971, 42.463460 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-10-30T03:45:58Z", "user": "OceanVortex", "tags": "\"leisure\"=\"playground\"", "name": "", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.128819, 42.465062 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-10-31T02:53:03Z", "user": "OceanVortex", "tags": "\"leisure\"=\"playground\"", "name": "", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.090913, 42.420190 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-11-01T20:11:45Z", "user": "OceanVortex", "tags": "\"leisure\"=\"playground\"", "name": "", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.150916, 42.461324 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-11-05T19:04:05Z", "user": "Brian Ristuccia", "tags": "\"barrier\"=\"fence\",\"area\"=\"yes\",\"leisure\"=\"playground\"", "name": "", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.218439, 42.582564 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-11-15T00:56:40Z", "user": "OceanVortex", "tags": "\"leisure\"=\"playground\"", "name": "", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.057138, 42.468924 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-11-15T14:49:39Z", "user": "OceanVortex", "tags": "\"leisure\"=\"playground\"", "name": "", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.155335, 42.406049 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-12-02T07:45:43Z", "user": "JasonWoof", "tags": "\"gnis:created\"=\"01\/15\/2003\",\"gnis:county_id\"=\"017\",\"name\"=\"Corcoran Playground\",", "name": "Corcoran Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.127716, 42.387053 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-12-08T04:56:49Z", "user": "morganwahl", "tags": "\"barrier\"=\"fence\",\"leisure\"=\"playground\"", "name": "", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.103650, 42.379344 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2010-12-12T03:32:55Z", "user": "morganwahl", "tags": "\"leisure\"=\"playground\"", "name": "", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.098545, 42.378804 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2011-01-08T22:03:05Z", "user": "synack", "tags": "\"leisure\"=\"playground\"", "name": "", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.141314, 42.396361 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2011-01-31T00:55:08Z", "user": "synack", "tags": "\"name\"=\"Tot Lot\",\"leisure\"=\"playground\"", "name": "Tot Lot", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.137717, 42.394961 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2011-01-11T21:08:01Z", "user": "sblanc", "tags": "\"leisure\"=\"playground\"", "name": "", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.051177, 42.361723 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2011-01-14T00:47:45Z", "user": "sblanc", "tags": "\"leisure\"=\"playground\"", "name": "", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.061165, 42.370091 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2011-01-16T05:05:54Z", "user": "synack", "tags": "\"leisure\"=\"playground\"", "name": "", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.151177, 42.380075 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2011-01-31T16:11:25Z", "user": "wdonovan", "tags": "\"area\"=\"yes\",\"ownership\"=\"municipal\",\"name\"=\"Anthony Costa Playground\",\"owner\"=\"", "name": "Anthony Costa Playground", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.080213, 42.367870 ] } }
+,
+{ "type": "Feature", "properties": { "timestamp": "2011-02-26T04:40:24Z", "user": "synack", "tags": "\"leisure\"=\"playground\"", "name": "", "category": "playground" }, "geometry": { "type": "Point", "coordinates": [ -71.137843, 42.350805 ] } }
+
+]
+}

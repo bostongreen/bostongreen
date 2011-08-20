@@ -1,0 +1,57 @@
+.nav_title.ui-link { text-decoration: none; color: white;}
+.rounded_corner {border:0px; -moz-border-radius: 10px 10px 10px 10px; -webkit-border-radius:10px; }
+
+.sprite_img {background-image:url(/images/sprites.png); width:26.5px; height:27px; display:block; float:left; margin:2px;
+	background-repeat:no-repeat;
+}
+
+.water { background-position: 0px 0px; }
+.reserve { background-position: -26.5px 0px; }
+.access { background-position: -53px 0px; }
+.tennis { background-position: -79.5px 0px; }
+.beach { background-position: -106px 0px; }
+
+.boat { background-position: 0px -27.5px; }
+.ski { background-position: -26.5px -27.5px; }
+.run, .sports { background-position: -53px -27.5px; }
+.rock_climb { background-position: -79.5px -27.5px; }
+.bathroom { background-position: -106px -27.5px; }
+
+.art { background-position: 0px -58.5px; }
+.theater { background-position: -26.5px -58.5px; }
+.playground { background-position: -53px -58.5px; }
+.picnic { background-position: -79.5px -58.5px; }
+.mountain_bike { background-position: -106px -58.5px; }
+
+.icerink { background-position: 0px -89px; }
+.horse { background-position: -26.5px -89px; }
+.history { background-position: -53px -89px; }
+.park { background-position: -79.5px -89px; }
+.multi { background-position: -106px -89px; }
+
+.golf { background-position: 0px -117px; }
+.fishing { background-position: -26.5px -117px; }
+.pet_on_leash { background-position: -53px -117px; }
+.communitygarden { background-position: -79.5px -117px; }
+.pet_off_leash { background-position: -106px -117px; }
+
+.farmers-market { background-position: 0px -144.5px; }
+.road_bike { background-position: -26.5px -144.5px; }
+.canoe { background-position: -53px -144.5px; }
+.camping { background-position: -79.5px -144.5px; }
+.canoe-access, .boat-ramp { background-position: -106px -144.5px; }
+
+
+.flag {
+	background-image:url(/img/59-flag.png); width:11px; height:16px; display:block; float:left; margin:2px;
+	background-repeat:no-repeat;
+	background-position: 0 0;
+}
+
+
+#mappage .ui-content {padding:0;}
+
+.ui-header {
+    background-image: url("/images/header-bg.jpg");
+	background-position: center;
+}

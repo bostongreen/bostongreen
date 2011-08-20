@@ -1,0 +1,7 @@
+- unless space.name.blank?
+  %li
+    %h3.ui-li-heading= link_to space.name, open_space_url(space)
+    = distance(space)
+    %span.ui-li-count= space.features.count + 1      
+    %p.ui-li-desc= render :partial => "open_spaces/tag", :collection => space.tags
+  

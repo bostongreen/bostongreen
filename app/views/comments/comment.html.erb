@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="/stylesheets/style.mobile.css" />  
+  <link rel="stylesheet" href="/stylesheets/style.mobile-jq.css" />  
+  <link rel="stylesheet" href="/stylesheets/jquery.mobile-1.0a3.min.css" />
+  <link rel="stylesheet" href="/stylesheets/screen.css" /> 
+  <script src="/javascripts/jquery-1.5.1.min.js"></script>
+  <script src="/javascripts/application.js"></script>    
+  <script src="/javascripts/jquery.mobile-1.0a3.min.js"></script>  
+  <link href="/images/icon_57x57.png" rel="apple-touch-icon" />
+  <link href="/images/icon_57x57.png" rel="shortcut icon" />
+</head>
+<body>
+
+<div id="<%= params[:id] %>" data-role="page" data-backbutton="true" data-theme="b" class="comments-page">
+  <div data-role="header">
+    <a href='#' class='ui-btn-left ui-btn-back' data-icon='arrow-l' onclick="history.back(); return false;">Back</a>
+    <%= render :partial => "home/title" %>
+  </div>
+  <div data-role="content">
+  
+  <h3>Feedback for <%= @space.name %></h3>
+  
+    <div id="disqus_thread"></div>
+    <script type="text/javascript">
+      var disqus_shortname = 'bostongreen';
+      var disqus_identifier = '<%= @disqus_id %>';
+      var disqus_url = window.location;
+      var disqus_developer = 1; 
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    </script>
+  </div>
+</div>
+</body>
+</html>

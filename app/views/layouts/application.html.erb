@@ -1,0 +1,33 @@
+<!doctype html>
+<html>
+<head>
+  <meta name="viewport" content="initial-scale=1.0, width=device-width, height=device-height, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  
+  <link rel="stylesheet" href="stylesheets/style.mobile.css" />  
+  <link rel="stylesheet" href="stylesheets/style.mobile-jq.css" />  
+  <link rel="stylesheet" href="stylesheets/jquery.mobile-1.0a3.min.css" />
+  <link rel="stylesheet" href="stylesheets/screen.css" /> 
+  <script src="javascripts/jquery-1.5.1.min.js"></script>
+  <script src="javascripts/application.js"></script>    
+  <script src="javascripts/jquery.mobile-1.0a3.min.js"></script>  
+  <link href="images/icon_57x57.png" rel="apple-touch-icon" />
+  <link href="images/icon_57x57.png" rel="shortcut icon" />
+  <%= yield :javascripts %>
+  <title>Boston Green: Find Your Space</title>
+</head>
+<body>
+  <%= yield %> 
+</body>
+
+<script type="text/javascript">
+var clicky = { log: function(){ return; }, goal: function(){ return; }};
+var clicky_site_id = 66392385;
+(function() {
+  var s = document.createElement('script');
+  s.type = 'text/javascript';
+  s.async = true;
+  s.src = ( document.location.protocol == 'https:' ? 'https://static.getclicky.com/js' : 'http://static.getclicky.com/js' );
+  ( document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0] ).appendChild( s );
+})();
+</script>
+</html>

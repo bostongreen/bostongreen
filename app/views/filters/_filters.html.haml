@@ -1,0 +1,9 @@
+%div{"data-role" => "fieldcontain"}
+  %form
+    %select{filters, :name => "filter", :id => "filter"}
+      = park_filter_option "Show All", "all"
+      = park_filter_option "Parks", "park"
+      = park_filter_option "Reserve", "reserve"
+      = park_filter_option "Sports Fields", "sports"
+      = park_filter_option "Beaches", "beach"
+      = park_filter_option "Gardens", "communitygarden"

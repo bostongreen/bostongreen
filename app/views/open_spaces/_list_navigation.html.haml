@@ -1,0 +1,18 @@
+- unless spaces.previous_page == nil && spaces.next_page == nil
+  %div{"data-role" => "navbar"}
+    %ul
+      - if spaces.previous_page
+        - if params[:filter]
+          %li= link_to "Previous", "#{base_uri}?filter=#{params[:filter]}&page=#{spaces.previous_page.to_s}", "data-icon" => "arrow-l"
+        - else
+          %li= link_to "Previous", "#{base_uri}?page=#{spaces.previous_page.to_s}", "data-icon" => "arrow-l"
+      - else
+        %li= link_to "Previous", "#", "data-icon" => "delete", "data-theme" => "c"
+      - if spaces.next_page
+        - if params[:filter]
+          %li= link_to "Next", "#{base_uri}?filter=#{params[:filter]}&page=#{spaces.next_page.to_s}", "data-icon" => "arrow-r"
+        - else
+          %li= link_to "Next", "#{base_uri}?&page=#{spaces.next_page.to_s}", "data-icon" => "arrow-r"
+      - else
+        %li= link_to "Next", "#", "data-icon" => "delete", "data-theme" => "c"
+      
